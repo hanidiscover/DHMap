@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hotel Map</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 600px;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<h2>Hotel Locations</h2>
+<div id="map"></div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+  // Initialize the map
+  const map = L.map('map').setView([43.65107, -79.347015], 10); // Center on Toronto for example
+
+  // Add OpenStreetMap tiles
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(map);
+
+  // List of hotels: name and coordinates
+  const hotels = [
+    { name: "Hotel One", lat: 43.6532, lng: -79.3832 },
+    { name: "Hotel Two", lat: 43.6612, lng: -79.3941 },
+    { name: "Hotel Three", lat: 43.6455, lng: -79.3806 }
+  ];
+
+  // Add pins with labels
+  hotels.forEach(hotel => {
+    const marker = L.marker([hotel.lat, hotel.lng]).addTo(map);
+    marker.bindTooltip(hotel.name, { permanent: true, direction: 'right' });
+  });
+</script>
+
+</body>
+</html>
