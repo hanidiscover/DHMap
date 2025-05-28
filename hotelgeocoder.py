@@ -2,28 +2,41 @@ import pandas as pd
 import requests
 import time
 
-API_KEY = '!!!!!!!!!!!!!key here'
+API_KEY = 'AIzaSyDOAbdn-iEKjkwkXiqWubZ1hZze0gioRog'
 
-def geocode_place(name):
+def geocode_place(query):
     base_url = 'https://maps.googleapis.com/maps/api/geocode/json'
-    params = {'address': name, 'key': API_KEY}
+    params = {'address': query, 'key': API_KEY}
     response = requests.get(base_url, params=params).json()
 
     if response['status'] == 'OK':
         loc = response['results'][0]['geometry']['location']
         return loc['lat'], loc['lng']
     else:
-        print(f"Failed to geocode: {name} ({response['status']})")
+        print(f"⚠️ Failed to geocode: {query} ({response['status']})")
         return None, None
 
-# Load your file (e.g., hotels.csv)
-df = pd.read_csv('vancouver.csv')  # Should have a 'name' column
+# Load your file (adjust encoding if needed)
+df = pd.read_csv('mapfile.csv', encoding='windows-1252')
 
-# Optionally combine with city/region if you have those columns
-df['query'] = df['name']  # or df['name'] + ', ' + df['city']
+# Strip whitespace and combine name and city
+df['name'] = df['name'].astype(str).str.strip()
+df['city'] = df['city'].astype(str).str.strip()
+df['query'] = df['name'] + ', ' + df['city']
 
-# Geocode
-df[['latitude', 'longitude']] = df['query'].apply(lambda x: pd.Series(geocode_place(x)))
+# Geocode each row with throttling
+latitudes = []
+longitudes = []
 
-df.to_csv('hvancouver.csv', index=False)
-print("Done!")
+for query in df['query']:
+    lat, lng = geocode_place(query)
+    latitudes.append(lat)
+    longitudes.append(lng)
+    time.sleep(0.5)  # To avoid hitting rate limits (adjust as needed)
+
+df['latitude'] = latitudes
+df['longitude'] = longitudes
+
+# Export result to JSON
+df.to_json('mapfile.json', orient='records', indent=2, force_ascii=False)
+print("✅ Geocoding complete. Saved to mapfile.json.")

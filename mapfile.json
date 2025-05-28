@@ -1,0 +1,2592 @@
+[
+   {
+    "name":"Azur Hotel",
+    "city":"Vancouver",
+    "query":"Azur Hotel, Vancouver",
+    "latitude":49.2857792,
+    "longitude":-123.1163804
+  },
+  {
+    "name":"Blue Horizon Hotel",
+    "city":"Vancouver",
+    "query":"Blue Horizon Hotel, Vancouver",
+    "latitude":49.2864347,
+    "longitude":-123.1274033
+  },
+  {
+    "name":"Coast Coal Harbour Hotel",
+    "city":"Vancouver",
+    "query":"Coast Coal Harbour Hotel, Vancouver",
+    "latitude":49.288401,
+    "longitude":-123.122343
+  },
+  {
+    "name":"Fairmont Hotel Vancouver",
+    "city":"Vancouver",
+    "query":"Fairmont Hotel Vancouver, Vancouver",
+    "latitude":49.2837112,
+    "longitude":-123.1211176
+  },
+  {
+    "name":"Fairmont Pacific Rim",
+    "city":"Vancouver",
+    "query":"Fairmont Pacific Rim, Vancouver",
+    "latitude":49.288234,
+    "longitude":-123.1166888
+  },
+  {
+    "name":"Fairmont Waterfront",
+    "city":"Vancouver",
+    "query":"Fairmont Waterfront, Vancouver",
+    "latitude":49.286958,
+    "longitude":-123.113901
+  },
+  {
+    "name":"Georgian Court Hotel",
+    "city":"Vancouver",
+    "query":"Georgian Court Hotel, Vancouver",
+    "latitude":49.2782567,
+    "longitude":-123.1135832
+  },
+  {
+    "name":"Holiday Inn Vancouver Downtown",
+    "city":"Vancouver",
+    "query":"Holiday Inn Vancouver Downtown, Vancouver",
+    "latitude":49.2784237,
+    "longitude":-123.1256676
+  },
+  {
+    "name":"L’Hermitage Hotel",
+    "city":"Vancouver",
+    "query":"L’Hermitage Hotel, Vancouver",
+    "latitude":49.2803641,
+    "longitude":-123.116879
+  },
+  {
+    "name":"Loden Hotel",
+    "city":"Vancouver",
+    "query":"Loden Hotel, Vancouver",
+    "latitude":49.2875667,
+    "longitude":-123.1232789
+  },
+  {
+    "name":"Opus Hotel Vancouver",
+    "city":"Vancouver",
+    "query":"Opus Hotel Vancouver, Vancouver",
+    "latitude":49.2746032,
+    "longitude":-123.1226017
+  },
+  {
+    "name":"Pan Pacific Vancouver",
+    "city":"Vancouver",
+    "query":"Pan Pacific Vancouver, Vancouver",
+    "latitude":49.2878274,
+    "longitude":-123.1134453
+  },
+  {
+    "name":"Paradox Hotel",
+    "city":"Vancouver",
+    "query":"Paradox Hotel, Vancouver",
+    "latitude":49.2867854,
+    "longitude":-123.1241038
+  },
+  {
+    "name":"Pinnacle Hotel Harbour Front",
+    "city":"Vancouver",
+    "query":"Pinnacle Hotel Harbour Front, Vancouver",
+    "latitude":49.288329,
+    "longitude":-123.1204937
+  },
+  {
+    "name":"Rosedale on Robson Suite Hotel",
+    "city":"Vancouver",
+    "query":"Rosedale on Robson Suite Hotel, Vancouver",
+    "latitude":49.278416,
+    "longitude":-123.1163019
+  },
+  {
+    "name":"Sandman Hotel Vancouver City Centre",
+    "city":"Vancouver",
+    "query":"Sandman Hotel Vancouver City Centre, Vancouver",
+    "latitude":49.2788916,
+    "longitude":-123.1130907
+  },
+  {
+    "name":"Sandman Suites on Davie",
+    "city":"Vancouver",
+    "query":"Sandman Suites on Davie, Vancouver",
+    "latitude":49.2810568,
+    "longitude":-123.1327804
+  },
+  {
+    "name":"Shangri-La Vancouver",
+    "city":"Vancouver",
+    "query":"Shangri-La Vancouver, Vancouver",
+    "latitude":49.2857863,
+    "longitude":-123.1237034
+  },
+  {
+    "name":"Sheraton Wall Centre Hotel",
+    "city":"Vancouver",
+    "query":"Sheraton Wall Centre Hotel, Vancouver",
+    "latitude":49.280153,
+    "longitude":-123.1270637
+  },
+  {
+    "name":"Sutton Place Hotel",
+    "city":"Vancouver",
+    "query":"Sutton Place Hotel, Vancouver",
+    "latitude":49.2827291,
+    "longitude":-123.1207375
+  },
+  {
+    "name":"Times Square Suites Hotel",
+    "city":"Vancouver",
+    "query":"Times Square Suites Hotel, Vancouver",
+    "latitude":49.2918307,
+    "longitude":-123.1355229
+  },
+  {
+    "name":"Wedgewood Hotel",
+    "city":"Vancouver",
+    "query":"Wedgewood Hotel, Vancouver",
+    "latitude":49.282234,
+    "longitude":-123.122663
+  },
+  {
+    "name":"Fraser River Fishing Lodge",
+    "city":"Agassiz",
+    "query":"Fraser River Fishing Lodge, Agassiz",
+    "latitude":49.2357976,
+    "longitude":-121.761715
+  },
+  {
+    "name":"Sundance Guest Ranch",
+    "city":"Ashcroft",
+    "query":"Sundance Guest Ranch, Ashcroft",
+    "latitude":50.662844,
+    "longitude":-121.276156
+  },
+  {
+    "name":"Bella Coola Mountain Lodge",
+    "city":"Bella Coola",
+    "query":"Bella Coola Mountain Lodge, Bella Coola",
+    "latitude":52.3915214,
+    "longitude":-126.5482482
+  },
+  {
+    "name":"Mike Wiegele Lodge",
+    "city":"Blue River",
+    "query":"Mike Wiegele Lodge, Blue River",
+    "latitude":52.1130749,
+    "longitude":-119.3036844
+  },
+  {
+    "name":"Sandman Inn Cache Creek",
+    "city":"Cache Creek",
+    "query":"Sandman Inn Cache Creek, Cache Creek",
+    "latitude":50.8063158,
+    "longitude":-121.3262339
+  },
+  {
+    "name":"Coast Discovery Inn & Marina",
+    "city":"Campbell River",
+    "query":"Coast Discovery Inn & Marina, Campbell River",
+    "latitude":50.026402,
+    "longitude":-125.241975
+  },
+  {
+    "name":"Comfort Inn & Suites Campbell River",
+    "city":"Campbell River",
+    "query":"Comfort Inn & Suites Campbell River, Campbell River",
+    "latitude":50.0287185,
+    "longitude":-125.2444812
+  },
+  {
+    "name":"Naturally Pacific Resort",
+    "city":"Campbell River",
+    "query":"Naturally Pacific Resort, Campbell River",
+    "latitude":50.0196036,
+    "longitude":-125.267038
+  },
+  {
+    "name":"Alpine Meadows Resort",
+    "city":"Clearwater",
+    "query":"Alpine Meadows Resort, Clearwater",
+    "latitude":27.9655722,
+    "longitude":-82.7958948
+  },
+  {
+    "name":"Best Western Plus Gateway to the Falls",
+    "city":"Clearwater",
+    "query":"Best Western Plus Gateway to the Falls, Clearwater",
+    "latitude":51.6514125,
+    "longitude":-120.0440821
+  },
+  {
+    "name":"Helmcken Falls Lodge",
+    "city":"Clearwater",
+    "query":"Helmcken Falls Lodge, Clearwater",
+    "latitude":27.9655722,
+    "longitude":-82.7958948
+  },
+  {
+    "name":"Quality Inn & Suites",
+    "city":"Clearwater",
+    "query":"Quality Inn & Suites, Clearwater",
+    "latitude":51.6515652,
+    "longitude":-120.0421037
+  },
+  {
+    "name":"Prestige Rocky Mountain Resort",
+    "city":"Cranbrook",
+    "query":"Prestige Rocky Mountain Resort, Cranbrook",
+    "latitude":49.508375,
+    "longitude":-115.7785298
+  },
+  {
+    "name":"Sandman Inn Cranbrook",
+    "city":"Cranbrook",
+    "query":"Sandman Inn Cranbrook, Cranbrook",
+    "latitude":49.5129678,
+    "longitude":-115.7694002
+  },
+  {
+    "name":"Old House Hotel & Spa",
+    "city":"Courtenay",
+    "query":"Old House Hotel & Spa, Courtenay",
+    "latitude":49.6847222,
+    "longitude":-124.9888889
+  },
+  {
+    "name":"West Coast Wilderness Lodge",
+    "city":"Egmont",
+    "query":"West Coast Wilderness Lodge, Egmont",
+    "latitude":49.755904,
+    "longitude":-123.9376243
+  },
+  {
+    "name":"Cathedral Mountain Lodge",
+    "city":"Field",
+    "query":"Cathedral Mountain Lodge, Field",
+    "latitude":51.4226234,
+    "longitude":-116.4357551
+  },
+  {
+    "name":"Emerald Lake Lodge",
+    "city":"Field",
+    "query":"Emerald Lake Lodge, Field",
+    "latitude":51.4399223,
+    "longitude":-116.5385665
+  },
+  {
+    "name":"Tyax Lodge & Heliskiing",
+    "city":"Gold Bridge",
+    "query":"Tyax Lodge & Heliskiing, Gold Bridge",
+    "latitude":50.9517937,
+    "longitude":-122.7729034
+  },
+  {
+    "name":"Best Western Mountainview Inn",
+    "city":"Golden",
+    "query":"Best Western Mountainview Inn, Golden",
+    "latitude":51.3110044,
+    "longitude":-116.9727533
+  },
+  {
+    "name":"Prestige Inn Golden",
+    "city":"Golden",
+    "query":"Prestige Inn Golden, Golden",
+    "latitude":51.3112747,
+    "longitude":-116.9719054
+  },
+  {
+    "name":"Harrison Hot Springs Resort & Spa",
+    "city":"Harrison Hot Springs",
+    "query":"Harrison Hot Springs Resort & Spa, Harrison Hot Springs",
+    "latitude":49.3036798,
+    "longitude":-121.7897531
+  },
+  {
+    "name":"Rockwater Secret Cove Resort",
+    "city":"Halfmoon Bay",
+    "query":"Rockwater Secret Cove Resort, Halfmoon Bay",
+    "latitude":49.5406785,
+    "longitude":-123.9787683
+  },
+  {
+    "name":"Copper Point Resort",
+    "city":"Invermere",
+    "query":"Copper Point Resort, Invermere",
+    "latitude":50.5119444,
+    "longitude":-115.9933333
+  },
+  {
+    "name":"Lac Le Jeune Resort",
+    "city":"Kamloops",
+    "query":"Lac Le Jeune Resort, Kamloops",
+    "latitude":50.6347317,
+    "longitude":-120.4465011
+  },
+  {
+    "name":"Sandman Inn & Suites Kamloops",
+    "city":"Kamloops",
+    "query":"Sandman Inn & Suites Kamloops, Kamloops",
+    "latitude":50.674522,
+    "longitude":-120.3272674
+  },
+  {
+    "name":"Sandman Signature Kamloops",
+    "city":"Kamloops",
+    "query":"Sandman Signature Kamloops, Kamloops",
+    "latitude":50.6774957,
+    "longitude":-120.3364875
+  },
+  {
+    "name":"South Thompson Inn",
+    "city":"Kamloops",
+    "query":"South Thompson Inn, Kamloops",
+    "latitude":50.674522,
+    "longitude":-120.3272674
+  },
+  {
+    "name":"The Plaza Hotel",
+    "city":"Kamloops",
+    "query":"The Plaza Hotel, Kamloops",
+    "latitude":50.675747,
+    "longitude":-120.331732
+  },
+  {
+    "name":"The Thompson Hotel & Conference Centre",
+    "city":"Kamloops",
+    "query":"The Thompson Hotel & Conference Centre, Kamloops",
+    "latitude":50.676102,
+    "longitude":-120.325566
+  },
+  {
+    "name":"Hotel Zed Kelowna",
+    "city":"Kelowna",
+    "query":"Hotel Zed Kelowna, Kelowna",
+    "latitude":49.8848218,
+    "longitude":-119.4990259
+  },
+  {
+    "name":"Prestige Beach House",
+    "city":"Kelowna",
+    "query":"Prestige Beach House, Kelowna",
+    "latitude":49.8839299,
+    "longitude":-119.49863
+  },
+  {
+    "name":"Ramada Hotel & Conference Centre",
+    "city":"Kelowna",
+    "query":"Ramada Hotel & Conference Centre, Kelowna",
+    "latitude":49.882281,
+    "longitude":-119.4380524
+  },
+  {
+    "name":"Sandman Hotel Kelowna",
+    "city":"Kelowna",
+    "query":"Sandman Hotel Kelowna, Kelowna",
+    "latitude":49.8825986,
+    "longitude":-119.4404325
+  },
+  {
+    "name":"The Royal Kelowna",
+    "city":"Kelowna",
+    "query":"The Royal Kelowna, Kelowna",
+    "latitude":49.8921122,
+    "longitude":-119.4984359
+  },
+  {
+    "name":"Ten-ee-ah Lodge",
+    "city":"Lac La Hache",
+    "query":"Ten-ee-ah Lodge, Lac La Hache",
+    "latitude":52.0090942,
+    "longitude":-121.4515457
+  },
+  {
+    "name":"Sandman Inn McBride",
+    "city":"McBride",
+    "query":"Sandman Inn McBride, McBride",
+    "latitude":53.301347,
+    "longitude":-120.168461
+  },
+  {
+    "name":"Manning Park Resort",
+    "city":"Manning Park",
+    "query":"Manning Park Resort, Manning Park",
+    "latitude":49.0636051,
+    "longitude":-120.7869997
+  },
+  {
+    "name":"Coast Bastion Hotel",
+    "city":"Nanaimo",
+    "query":"Coast Bastion Hotel, Nanaimo",
+    "latitude":49.166622,
+    "longitude":-123.936063
+  },
+  {
+    "name":"Prestige Lakeside Resort Nelson",
+    "city":"Nelson",
+    "query":"Prestige Lakeside Resort Nelson, Nelson",
+    "latitude":49.4973163,
+    "longitude":-117.2941686
+  },
+  {
+    "name":"Prestige Inn Nelson",
+    "city":"Nelson",
+    "query":"Prestige Inn Nelson, Nelson",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Coast Oliver Hotel",
+    "city":"Oliver",
+    "query":"Coast Oliver Hotel, Oliver",
+    "latitude":49.183722,
+    "longitude":-119.549103
+  },
+  {
+    "name":"The Bayside Oceanfront Resort",
+    "city":"Parksville",
+    "query":"The Bayside Oceanfront Resort, Parksville",
+    "latitude":49.3193375,
+    "longitude":-124.3136412
+  },
+  {
+    "name":"The Beach Club Resort",
+    "city":"Parksville",
+    "query":"The Beach Club Resort, Parksville",
+    "latitude":49.3225281,
+    "longitude":-124.3154053
+  },
+  {
+    "name":"Coast Parksville Hotel",
+    "city":"Parksville",
+    "query":"Coast Parksville Hotel, Parksville",
+    "latitude":49.322827,
+    "longitude":-124.32298
+  },
+  {
+    "name":"Tigh-Na-Mara Seaside Spa Resort",
+    "city":"Parksville",
+    "query":"Tigh-Na-Mara Seaside Spa Resort, Parksville",
+    "latitude":49.3106013,
+    "longitude":-124.2642281
+  },
+  {
+    "name":"Penticton Lakeside Resort",
+    "city":"Penticton",
+    "query":"Penticton Lakeside Resort, Penticton",
+    "latitude":49.5031301,
+    "longitude":-119.5946991
+  },
+  {
+    "name":"Sandman Hotel Penticton",
+    "city":"Penticton",
+    "query":"Sandman Hotel Penticton, Penticton",
+    "latitude":49.4980305,
+    "longitude":-119.6086322
+  },
+  {
+    "name":"Glen Lyon Inn & Suites",
+    "city":"Port Hardy",
+    "query":"Glen Lyon Inn & Suites, Port Hardy",
+    "latitude":50.7111723,
+    "longitude":-127.4902816
+  },
+  {
+    "name":"Kwa’Lilas Hotel",
+    "city":"Port Hardy",
+    "query":"Kwa’Lilas Hotel, Port Hardy",
+    "latitude":50.7215806,
+    "longitude":-127.5007984
+  },
+  {
+    "name":"Wild Renfrew Seaside Cottages",
+    "city":"Port Renfrew",
+    "query":"Wild Renfrew Seaside Cottages, Port Renfrew",
+    "latitude":48.5542132,
+    "longitude":-124.4216875
+  },
+  {
+    "name":"Ramada Plaza Prince George",
+    "city":"Prince George",
+    "query":"Ramada Plaza Prince George, Prince George",
+    "latitude":53.9147966,
+    "longitude":-122.7430484
+  },
+  {
+    "name":"Sandman Hotel & Suites Prince George",
+    "city":"Prince George",
+    "query":"Sandman Hotel & Suites Prince George, Prince George",
+    "latitude":53.9082495,
+    "longitude":-122.7803233
+  },
+  {
+    "name":"Sandman Signature Prince George",
+    "city":"Prince George",
+    "query":"Sandman Signature Prince George, Prince George",
+    "latitude":53.8918238,
+    "longitude":-122.7697864
+  },
+  {
+    "name":"Prestige Treasure Cove Prince George",
+    "city":"Prince George",
+    "query":"Prestige Treasure Cove Prince George, Prince George",
+    "latitude":53.8949265,
+    "longitude":-122.762834
+  },
+  {
+    "name":"Crest Hotel",
+    "city":"Prince Rupert",
+    "query":"Crest Hotel, Prince Rupert",
+    "latitude":54.3161225,
+    "longitude":-130.3252423
+  },
+  {
+    "name":"Prestige Oceanview Hotel Prince Rupert",
+    "city":"Prince Rupert",
+    "query":"Prestige Oceanview Hotel Prince Rupert, Prince Rupert",
+    "latitude":54.3116057,
+    "longitude":-130.3292506
+  },
+  {
+    "name":"Sandman Inn Princeton",
+    "city":"Princeton",
+    "query":"Sandman Inn Princeton, Princeton",
+    "latitude":49.4525511,
+    "longitude":-120.5264638
+  },
+  {
+    "name":"Sandman Hotel Quesnel",
+    "city":"Quesnel",
+    "query":"Sandman Hotel Quesnel, Quesnel",
+    "latitude":52.963728,
+    "longitude":-122.4423226
+  },
+  {
+    "name":"Prestige Radium Hot Springs Resort",
+    "city":"Radium Hot Springs",
+    "query":"Prestige Radium Hot Springs Resort, Radium Hot Springs",
+    "latitude":50.621746,
+    "longitude":-116.0730895
+  },
+  {
+    "name":"Basecamp Resorts Revelstoke",
+    "city":"Revelstoke",
+    "query":"Basecamp Resorts Revelstoke, Revelstoke",
+    "latitude":51.0220938,
+    "longitude":-118.213341
+  },
+  {
+    "name":"Coast Hillcrest Hotel",
+    "city":"Revelstoke",
+    "query":"Coast Hillcrest Hotel, Revelstoke",
+    "latitude":50.995235,
+    "longitude":-118.163015
+  },
+  {
+    "name":"Glacier House Resort",
+    "city":"Revelstoke",
+    "query":"Glacier House Resort, Revelstoke",
+    "latitude":51.0491541,
+    "longitude":-118.2165307
+  },
+  {
+    "name":"Sandman Hotel Revelstoke",
+    "city":"Revelstoke",
+    "query":"Sandman Hotel Revelstoke, Revelstoke",
+    "latitude":51.0101023,
+    "longitude":-118.2180287
+  },
+  {
+    "name":"Sutton Place Hotel Revelstoke Mountain Resort",
+    "city":"Revelstoke",
+    "query":"Sutton Place Hotel Revelstoke Mountain Resort, Revelstoke",
+    "latitude":50.9580673,
+    "longitude":-118.1637083
+  },
+  {
+    "name":"Prestige Mountain Resort",
+    "city":"Rossland",
+    "query":"Prestige Mountain Resort, Rossland",
+    "latitude":49.0766527,
+    "longitude":-117.8011341
+  },
+  {
+    "name":"Prestige Harbourfront Resort",
+    "city":"Salmon Arm",
+    "query":"Prestige Harbourfront Resort, Salmon Arm",
+    "latitude":50.705006,
+    "longitude":-119.283279
+  },
+  {
+    "name":"Harbour House Hotel",
+    "city":"Salt Spring Island",
+    "query":"Harbour House Hotel, Salt Spring Island",
+    "latitude":48.85906,
+    "longitude":-123.502546
+  },
+  {
+    "name":"Prestige Hudson Bay Lodge",
+    "city":"Smithers",
+    "query":"Prestige Hudson Bay Lodge, Smithers",
+    "latitude":54.7740136,
+    "longitude":-127.1562942
+  },
+  {
+    "name":"Sandman Inn Smithers",
+    "city":"Smithers",
+    "query":"Sandman Inn Smithers, Smithers",
+    "latitude":54.7842467,
+    "longitude":-127.1684596
+  },
+  {
+    "name":"Sonora Resort",
+    "city":"Sonora Island",
+    "query":"Sonora Resort, Sonora Island",
+    "latitude":50.386398,
+    "longitude":-125.1582615
+  },
+  {
+    "name":"Prestige Oceanfront Resort",
+    "city":"Sooke",
+    "query":"Prestige Oceanfront Resort, Sooke",
+    "latitude":48.3673512,
+    "longitude":-123.7301413
+  },
+  {
+    "name":"Sandman Hotel Squamish",
+    "city":"Squamish",
+    "query":"Sandman Hotel Squamish, Squamish",
+    "latitude":49.7254857,
+    "longitude":-123.1496279
+  },
+  {
+    "name":"Sundance Lodge (Formerly Coast)",
+    "city":"Sun Peaks Resort",
+    "query":"Sundance Lodge (Formerly Coast), Sun Peaks Resort",
+    "latitude":50.884478,
+    "longitude":-119.884662
+  },
+  {
+    "name":"Sun Peaks Grand Hotel & Conference Centre",
+    "city":"Sun Peaks Resort",
+    "query":"Sun Peaks Grand Hotel & Conference Centre, Sun Peaks Resort",
+    "latitude":50.8848496,
+    "longitude":-119.8834888
+  },
+  {
+    "name":"Sun Peaks Lodge",
+    "city":"Sun Peaks Resort",
+    "query":"Sun Peaks Lodge, Sun Peaks Resort",
+    "latitude":50.8842366,
+    "longitude":-119.8828256
+  },
+  {
+    "name":"Telegraph Cove Resort",
+    "city":"Telegraph Cove",
+    "query":"Telegraph Cove Resort, Telegraph Cove",
+    "latitude":50.5452248,
+    "longitude":-126.834025
+  },
+  {
+    "name":"Sandman Inn Terrace",
+    "city":"Terrace",
+    "query":"Sandman Inn Terrace, Terrace",
+    "latitude":54.5162585,
+    "longitude":-128.602878
+  },
+  {
+    "name":"Hotel Zed Tofino",
+    "city":"Tofino",
+    "query":"Hotel Zed Tofino, Tofino",
+    "latitude":49.1218257,
+    "longitude":-125.888721
+  },
+  {
+    "name":"Long Beach Lodge Resort",
+    "city":"Tofino",
+    "query":"Long Beach Lodge Resort, Tofino",
+    "latitude":49.1048193,
+    "longitude":-125.8723559
+  },
+  {
+    "name":"Pacific Sands Beach Resort",
+    "city":"Tofino",
+    "query":"Pacific Sands Beach Resort, Tofino",
+    "latitude":49.1066474,
+    "longitude":-125.8729171
+  },
+  {
+    "name":"Tofino Resort & Marina",
+    "city":"Tofino",
+    "query":"Tofino Resort & Marina, Tofino",
+    "latitude":49.1498127,
+    "longitude":-125.8955574
+  },
+  {
+    "name":"Wickaninnish Inn",
+    "city":"Tofino",
+    "query":"Wickaninnish Inn, Tofino",
+    "latitude":49.1229377,
+    "longitude":-125.901604
+  },
+  {
+    "name":"Black Rock Oceanfront Resort",
+    "city":"Ucluelet",
+    "query":"Black Rock Oceanfront Resort, Ucluelet",
+    "latitude":48.9370186,
+    "longitude":-125.5561804
+  },
+  {
+    "name":"Water’s Edge Shoreside Suites",
+    "city":"Ucluelet",
+    "query":"Water’s Edge Shoreside Suites, Ucluelet",
+    "latitude":48.9475583,
+    "longitude":-125.5537333
+  },
+  {
+    "name":"Fairmont Vancouver Airport",
+    "city":"Vancouver Airport",
+    "query":"Fairmont Vancouver Airport, Vancouver Airport",
+    "latitude":49.1949473,
+    "longitude":-123.1759664
+  },
+  {
+    "name":"Sandman Hotel Vancouver Airport",
+    "city":"Vancouver Airport",
+    "query":"Sandman Hotel Vancouver Airport, Vancouver Airport",
+    "latitude":49.1913849,
+    "longitude":-123.1144368
+  },
+  {
+    "name":"Sandman Signature Vancouver Airport Hotel & Resort",
+    "city":"Vancouver Airport",
+    "query":"Sandman Signature Vancouver Airport Hotel & Resort, Vancouver Airport",
+    "latitude":49.1873027,
+    "longitude":-123.110077
+  },
+  {
+    "name":"Aava Whistler",
+    "city":"Whistler",
+    "query":"Aava Whistler, Whistler",
+    "latitude":50.113716,
+    "longitude":-122.9586311
+  },
+  {
+    "name":"Abigail's Hotel",
+    "city":"Victoria",
+    "query":"Abigail's Hotel, Victoria",
+    "latitude":48.4210127,
+    "longitude":-123.3598561
+  },
+  {
+    "name":"Chateau Victoria",
+    "city":"Victoria",
+    "query":"Chateau Victoria, Victoria",
+    "latitude":48.4221056,
+    "longitude":-123.3644953
+  },
+  {
+    "name":"Coast Victoria Hotel & Marina by APA",
+    "city":"Victoria",
+    "query":"Coast Victoria Hotel & Marina by APA, Victoria",
+    "latitude":48.422256,
+    "longitude":-123.379715
+  },
+  {
+    "name":"Delta Whistler Village Suites",
+    "city":"Whistler",
+    "query":"Delta Whistler Village Suites, Whistler",
+    "latitude":50.1169693,
+    "longitude":-122.9561797
+  },
+  {
+    "name":"Doubletree by Hilton Hotel & Suites Victoria",
+    "city":"Victoria",
+    "query":"Doubletree by Hilton Hotel & Suites Victoria, Victoria",
+    "latitude":48.4218247,
+    "longitude":-123.3652049
+  },
+  {
+    "name":"Fairmont Chateau Whistler",
+    "city":"Whistler",
+    "query":"Fairmont Chateau Whistler, Whistler",
+    "latitude":50.116647,
+    "longitude":-122.9462133
+  },
+  {
+    "name":"Fairmont Empress Hotel",
+    "city":"Victoria",
+    "query":"Fairmont Empress Hotel, Victoria",
+    "latitude":48.421721,
+    "longitude":-123.3678489
+  },
+  {
+    "name":"Hilton Whistler Resort",
+    "city":"Whistler",
+    "query":"Hilton Whistler Resort, Whistler",
+    "latitude":50.1126449,
+    "longitude":-122.9560389
+  },
+  {
+    "name":"Hotel Grand Pacific",
+    "city":"Victoria",
+    "query":"Hotel Grand Pacific, Victoria",
+    "latitude":48.4205556,
+    "longitude":-123.3725
+  },
+  {
+    "name":"Hotel Zed Victoria",
+    "city":"Victoria",
+    "query":"Hotel Zed Victoria, Victoria",
+    "latitude":48.4460575,
+    "longitude":-123.3717075
+  },
+  {
+    "name":"Inn at Laurel Point",
+    "city":"Victoria",
+    "query":"Inn at Laurel Point, Victoria",
+    "latitude":48.4234981,
+    "longitude":-123.3764257
+  },
+  {
+    "name":"Listel Whistler Hotel",
+    "city":"Whistler",
+    "query":"Listel Whistler Hotel, Whistler",
+    "latitude":50.1136944,
+    "longitude":-122.9568278
+  },
+  {
+    "name":"Nita Lake Lodge",
+    "city":"Whistler",
+    "query":"Nita Lake Lodge, Whistler",
+    "latitude":50.0963889,
+    "longitude":-122.9958333
+  },
+  {
+    "name":"Oak Bay Beach Hotel",
+    "city":"Victoria",
+    "query":"Oak Bay Beach Hotel, Victoria",
+    "latitude":48.4199482,
+    "longitude":-123.2994611
+  },
+  {
+    "name":"Prestige Hotel Vernon",
+    "city":"Vernon",
+    "query":"Prestige Hotel Vernon, Vernon",
+    "latitude":50.2778772,
+    "longitude":-119.2737938
+  },
+  {
+    "name":"Prestige Vernon Lodge & Conference Centre",
+    "city":"Vernon",
+    "query":"Prestige Vernon Lodge & Conference Centre, Vernon",
+    "latitude":50.2714629,
+    "longitude":-119.2747339
+  },
+  {
+    "name":"Sandman Hotel Vernon",
+    "city":"Vernon",
+    "query":"Sandman Hotel Vernon, Vernon",
+    "latitude":50.2670137,
+    "longitude":-119.2720107
+  },
+  {
+    "name":"Sandman Hotel Victoria",
+    "city":"Victoria",
+    "query":"Sandman Hotel Victoria, Victoria",
+    "latitude":48.4395951,
+    "longitude":-123.3684379
+  },
+  {
+    "name":"Sandman Hotel Williams Lake",
+    "city":"Williams Lake",
+    "query":"Sandman Hotel Williams Lake, Williams Lake",
+    "latitude":52.1288091,
+    "longitude":-122.1366718
+  },
+  {
+    "name":"Sandman Inn Abbotsford",
+    "city":"Greater Vancouver - Abbotsford",
+    "query":"Sandman Inn Abbotsford, Greater Vancouver - Abbotsford",
+    "latitude":49.0504377,
+    "longitude":-122.3044697
+  },
+  {
+    "name":"Sandman Signature Langley",
+    "city":"Greater Vancouver - Langley",
+    "query":"Sandman Signature Langley, Greater Vancouver - Langley",
+    "latitude":49.1627052,
+    "longitude":-122.6656074
+  },
+  {
+    "name":"Sandman Suites Surrey (Guildford)",
+    "city":"Greater Vancouver - Surrey",
+    "query":"Sandman Suites Surrey (Guildford), Greater Vancouver - Surrey",
+    "latitude":49.1952483,
+    "longitude":-122.8015083
+  },
+  {
+    "name":"Summit Lodge Boutique Hotel",
+    "city":"Whistler",
+    "query":"Summit Lodge Boutique Hotel, Whistler",
+    "latitude":50.1184703,
+    "longitude":-122.9568232
+  },
+  {
+    "name":"The Oswego Hotel",
+    "city":"Victoria",
+    "query":"The Oswego Hotel, Victoria",
+    "latitude":48.4207314,
+    "longitude":-123.3759507
+  },
+  {
+    "name":"The Westin Resort & Spa Whistler",
+    "city":"Whistler",
+    "query":"The Westin Resort & Spa Whistler, Whistler",
+    "latitude":50.1121574,
+    "longitude":-122.9561144
+  },
+  {
+    "name":"Whistler Pinnacle Hotel",
+    "city":"Whistler",
+    "query":"Whistler Pinnacle Hotel, Whistler",
+    "latitude":50.1174258,
+    "longitude":-122.9572694
+  },
+  {
+    "name":"Whistler Village Inn & Suites",
+    "city":"Williams Lake",
+    "query":"Whistler Village Inn & Suites, Williams Lake",
+    "latitude":52.1416736,
+    "longitude":-122.1416885
+  },
+  {
+    "name":"ALT Hotel Halifax Airport",
+    "city":"Halifax Airport, NS",
+    "query":"ALT Hotel Halifax Airport, Halifax Airport, NS",
+    "latitude":44.8859483,
+    "longitude":-63.5162562
+  },
+  {
+    "name":"ALT Hotel Toronto Airport",
+    "city":"Toronto Airport",
+    "query":"ALT Hotel Toronto Airport, Toronto Airport",
+    "latitude":43.6897919,
+    "longitude":-79.6147422
+  },
+  {
+    "name":"Acclaim Hotel Calgary Airport",
+    "city":"Calgary Airport",
+    "query":"Acclaim Hotel Calgary Airport, Calgary Airport",
+    "latitude":51.1504074,
+    "longitude":-113.9996794
+  },
+  {
+    "name":"Alt Hotel Calgary East Village",
+    "city":"Calgary",
+    "query":"Alt Hotel Calgary East Village, Calgary",
+    "latitude":51.0473428,
+    "longitude":-114.0492986
+  },
+  {
+    "name":"Alt Hotel Montreal",
+    "city":"Montreal",
+    "query":"Alt Hotel Montreal, Montreal",
+    "latitude":45.4930735,
+    "longitude":-73.5572094
+  },
+  {
+    "name":"Alt Hotel Ottawa",
+    "city":"Ottawa",
+    "query":"Alt Hotel Ottawa, Ottawa",
+    "latitude":45.4199505,
+    "longitude":-75.6990338
+  },
+  {
+    "name":"Alt Hotel Quebec",
+    "city":"Quebec City",
+    "query":"Alt Hotel Quebec, Quebec City",
+    "latitude":46.7686403,
+    "longitude":-71.2874293
+  },
+  {
+    "name":"Alt Hotel St John's",
+    "city":"St John's, NL",
+    "query":"Alt Hotel St John's, St John's, NL",
+    "latitude":47.566323,
+    "longitude":-52.7044023
+  },
+  {
+    "name":"Alt Hotel Winnipeg",
+    "city":"Winnipeg, MB",
+    "query":"Alt Hotel Winnipeg, Winnipeg, MB",
+    "latitude":49.8941292,
+    "longitude":-97.1439171
+  },
+  {
+    "name":"Applause Hotel Calgary Airport",
+    "city":"Calgary Airport",
+    "query":"Applause Hotel Calgary Airport, Calgary Airport",
+    "latitude":51.1383865,
+    "longitude":-114.0349769
+  },
+  {
+    "name":"Artisan Inn",
+    "city":"Trinity, NL",
+    "query":"Artisan Inn, Trinity, NL",
+    "latitude":48.3677539,
+    "longitude":-53.3607264
+  },
+  {
+    "name":"Aspen Village Inn",
+    "city":"Waterton Park",
+    "query":"Aspen Village Inn, Waterton Park",
+    "latitude":49.052865,
+    "longitude":-113.9091348
+  },
+  {
+    "name":"Auberge Le Baluchon",
+    "city":"Saint-Paulin",
+    "query":"Auberge Le Baluchon, Saint-Paulin",
+    "latitude":46.4510538,
+    "longitude":-73.0017011
+  },
+  {
+    "name":"Auberge Le Saint Pierre",
+    "city":"Quebec City",
+    "query":"Auberge Le Saint Pierre, Quebec City",
+    "latitude":46.8130816,
+    "longitude":-71.2074596
+  },
+  {
+    "name":"Auberge des Battures",
+    "city":"La Baie",
+    "query":"Auberge des Battures, La Baie",
+    "latitude":48.3368064,
+    "longitude":-70.7950793
+  },
+  {
+    "name":"Auberge du Lac St Pierre",
+    "city":"Trois Rivieres",
+    "query":"Auberge du Lac St Pierre, Trois Rivieres",
+    "latitude":46.2781346,
+    "longitude":-72.6678554
+  },
+  {
+    "name":"Aurora Inn",
+    "city":"Dawson City, YT",
+    "query":"Aurora Inn, Dawson City, YT",
+    "latitude":64.0582503,
+    "longitude":-139.4334237
+  },
+  {
+    "name":"Banff Aspen Lodge",
+    "city":"Banff",
+    "query":"Banff Aspen Lodge, Banff",
+    "latitude":51.1813889,
+    "longitude":-115.5688056
+  },
+  {
+    "name":"Banff Caribou Lodge & Spa",
+    "city":"Banff",
+    "query":"Banff Caribou Lodge & Spa, Banff",
+    "latitude":51.1842178,
+    "longitude":-115.5605293
+  },
+  {
+    "name":"Banff Ptarmigan Inn",
+    "city":"Banff",
+    "query":"Banff Ptarmigan Inn, Banff",
+    "latitude":51.1801693,
+    "longitude":-115.5699113
+  },
+  {
+    "name":"Banff Rocky Mountain Resort",
+    "city":"Banff",
+    "query":"Banff Rocky Mountain Resort, Banff",
+    "latitude":51.1998716,
+    "longitude":-115.5359363
+  },
+  {
+    "name":"Bartlett Lodge",
+    "city":"Algonquin Park",
+    "query":"Bartlett Lodge, Algonquin Park",
+    "latitude":45.5480443,
+    "longitude":-78.5969764
+  },
+  {
+    "name":"Basecamp Suites Banff",
+    "city":"Banff",
+    "query":"Basecamp Suites Banff, Banff",
+    "latitude":51.1792246,
+    "longitude":-115.5720844
+  },
+  {
+    "name":"Bayshore Inn",
+    "city":"Waterton Park",
+    "query":"Bayshore Inn, Waterton Park",
+    "latitude":49.0526605,
+    "longitude":-113.9061533
+  },
+  {
+    "name":"Best Western Gold Rush Inn",
+    "city":"Whitehorse, YT",
+    "query":"Best Western Gold Rush Inn, Whitehorse, YT",
+    "latitude":60.71845,
+    "longitude":-135.05772
+  },
+  {
+    "name":"Blue Water Acres",
+    "city":"Huntsville \/ Muskoka",
+    "query":"Blue Water Acres, Huntsville \/ Muskoka",
+    "latitude":45.3171506,
+    "longitude":-79.0621454
+  },
+  {
+    "name":"Bluenose Lodge",
+    "city":"Lunenburg, NS",
+    "query":"Bluenose Lodge, Lunenburg, NS",
+    "latitude":44.378361,
+    "longitude":-64.317434
+  },
+  {
+    "name":"Boreale Lodge",
+    "city":"Whitehorse, YT",
+    "query":"Boreale Lodge, Whitehorse, YT",
+    "latitude":60.8640538,
+    "longitude":-135.2148504
+  },
+  {
+    "name":"Brewster's Mountain Lodge",
+    "city":"Banff",
+    "query":"Brewster's Mountain Lodge, Banff",
+    "latitude":51.176715,
+    "longitude":-115.572102
+  },
+  {
+    "name":"Buffalo Mountain Lodge",
+    "city":"Banff",
+    "query":"Buffalo Mountain Lodge, Banff",
+    "latitude":51.1839652,
+    "longitude":-115.550517
+  },
+  {
+    "name":"Canalta Jurassic Hotel",
+    "city":"Drumheller",
+    "query":"Canalta Jurassic Hotel, Drumheller",
+    "latitude":51.451386,
+    "longitude":-112.70153
+  },
+  {
+    "name":"Canalta Lodge",
+    "city":"Banff",
+    "query":"Canalta Lodge, Banff",
+    "latitude":51.1852073,
+    "longitude":-115.5581083
+  },
+  {
+    "name":"Carlisle House",
+    "city":"Annapolis Royal, NS",
+    "query":"Carlisle House, Annapolis Royal, NS",
+    "latitude":44.7409119,
+    "longitude":-65.5094956
+  },
+  {
+    "name":"Charltons Banff",
+    "city":"Banff",
+    "query":"Charltons Banff, Banff",
+    "latitude":51.1840676,
+    "longitude":-115.5616359
+  },
+  {
+    "name":"Chateau Jasper",
+    "city":"Jasper",
+    "query":"Chateau Jasper, Jasper",
+    "latitude":52.8859883,
+    "longitude":-118.0811566
+  },
+  {
+    "name":"Chateau Nova",
+    "city":"Yellowknife, NT",
+    "query":"Chateau Nova, Yellowknife, NT",
+    "latitude":62.4566698,
+    "longitude":-114.3646316
+  },
+  {
+    "name":"Chelsea Hotel",
+    "city":"Toronto",
+    "query":"Chelsea Hotel, Toronto",
+    "latitude":43.6584976,
+    "longitude":-79.3830973
+  },
+  {
+    "name":"Clarenville Inn",
+    "city":"Clarenville, NL",
+    "query":"Clarenville Inn, Clarenville, NL",
+    "latitude":48.145756,
+    "longitude":-53.9607877
+  },
+  {
+    "name":"Coast Canmore Hotel & Conference Centre",
+    "city":"Canmore",
+    "query":"Coast Canmore Hotel & Conference Centre, Canmore",
+    "latitude":51.087305,
+    "longitude":-115.345207
+  },
+  {
+    "name":"Coast Edmonton Plaza Hotel",
+    "city":"Edmonton",
+    "query":"Coast Edmonton Plaza Hotel, Edmonton",
+    "latitude":53.5422,
+    "longitude":-113.500686
+  },
+  {
+    "name":"Crowne Plaza Fallsview",
+    "city":"Niagara Falls",
+    "query":"Crowne Plaza Fallsview, Niagara Falls",
+    "latitude":43.0918191,
+    "longitude":-79.0715837
+  },
+  {
+    "name":"Crowne Plaza Saint John Harbour View",
+    "city":"Saint John, NB",
+    "query":"Crowne Plaza Saint John Harbour View, Saint John, NB",
+    "latitude":45.2749924,
+    "longitude":-66.0731154
+  },
+  {
+    "name":"Dalton Trail Lodge",
+    "city":"Haines Junction, YT",
+    "query":"Dalton Trail Lodge, Haines Junction, YT",
+    "latitude":60.4965613,
+    "longitude":-137.0645451
+  },
+  {
+    "name":"Deerhurst Resort",
+    "city":"Huntsville \/ Muskoka",
+    "query":"Deerhurst Resort, Huntsville \/ Muskoka",
+    "latitude":45.3472738,
+    "longitude":-79.1320755
+  },
+  {
+    "name":"Desbarres Manor Inn",
+    "city":"Guysborough, NS",
+    "query":"Desbarres Manor Inn, Guysborough, NS",
+    "latitude":45.390892,
+    "longitude":-61.5011695
+  },
+  {
+    "name":"Digby Pines Golf Resort & Spa",
+    "city":"Digby, NS",
+    "query":"Digby Pines Golf Resort & Spa, Digby, NS",
+    "latitude":44.6351637,
+    "longitude":-65.7594981
+  },
+  {
+    "name":"Discovery Yukon Lodgings",
+    "city":"Beaver Creek, YT",
+    "query":"Discovery Yukon Lodgings, Beaver Creek, YT",
+    "latitude":62.383753,
+    "longitude":-140.875303
+  },
+  {
+    "name":"Elk & Avenue Hotel",
+    "city":"Banff",
+    "query":"Elk & Avenue Hotel, Banff",
+    "latitude":51.1798087,
+    "longitude":-115.5702754
+  },
+  {
+    "name":"Elmhirst's Resort",
+    "city":"Keene",
+    "query":"Elmhirst's Resort, Keene",
+    "latitude":44.2496951,
+    "longitude":-78.1087271
+  },
+  {
+    "name":"Elmhirst's Resort",
+    "city":"Keene",
+    "query":"Elmhirst's Resort, Keene",
+    "latitude":44.2496951,
+    "longitude":-78.1087271
+  },
+  {
+    "name":"Ermitage du Lac",
+    "city":"Mont Tremblant",
+    "query":"Ermitage du Lac, Mont Tremblant",
+    "latitude":46.210462,
+    "longitude":-74.58708
+  },
+  {
+    "name":"Fairmont Banff Springs",
+    "city":"Banff",
+    "query":"Fairmont Banff Springs, Banff",
+    "latitude":51.164332,
+    "longitude":-115.56183
+  },
+  {
+    "name":"Fairmont Chateau Lake Louise",
+    "city":"Lake Louise",
+    "query":"Fairmont Chateau Lake Louise, Lake Louise",
+    "latitude":51.417719,
+    "longitude":-116.216882
+  },
+  {
+    "name":"Fairmont Chateau Laurier",
+    "city":"Ottawa",
+    "query":"Fairmont Chateau Laurier, Ottawa",
+    "latitude":45.4256659,
+    "longitude":-75.6952978
+  },
+  {
+    "name":"Fairmont Hotel Macdonald",
+    "city":"Edmonton",
+    "query":"Fairmont Hotel Macdonald, Edmonton",
+    "latitude":53.5402471,
+    "longitude":-113.4895554
+  },
+  {
+    "name":"Fairmont Jasper Park Lodge",
+    "city":"Jasper",
+    "query":"Fairmont Jasper Park Lodge, Jasper",
+    "latitude":52.8861603,
+    "longitude":-118.0571162
+  },
+  {
+    "name":"Fairmont Le Chateau Frontenac",
+    "city":"Auberge Saint-Antoine",
+    "query":"Fairmont Le Chateau Frontenac, Auberge Saint-Antoine",
+    "latitude":46.8120085,
+    "longitude":-71.2052184
+  },
+  {
+    "name":"Fairmont Le Chateau Montebello",
+    "city":"Montebello",
+    "query":"Fairmont Le Chateau Montebello, Montebello",
+    "latitude":45.6452715,
+    "longitude":-74.9494431
+  },
+  {
+    "name":"Fairmont Le Manoir Richelieu",
+    "city":"La Malbaie",
+    "query":"Fairmont Le Manoir Richelieu, La Malbaie",
+    "latitude":47.6205104,
+    "longitude":-70.1455833
+  },
+  {
+    "name":"Fairmont Palliser",
+    "city":"Calgary",
+    "query":"Fairmont Palliser, Calgary",
+    "latitude":51.0443336,
+    "longitude":-114.0649605
+  },
+  {
+    "name":"Fairmont Queen Elizabeth",
+    "city":"Auberge du Vieux-Port",
+    "query":"Fairmont Queen Elizabeth, Auberge du Vieux-Port",
+    "latitude":45.5063931,
+    "longitude":-73.5527947
+  },
+  {
+    "name":"Fairmont Royal York",
+    "city":"Toronto",
+    "query":"Fairmont Royal York, Toronto",
+    "latitude":43.6460303,
+    "longitude":-79.381388
+  },
+  {
+    "name":"Fairmont Tremblant",
+    "city":"Mont Tremblant",
+    "query":"Fairmont Tremblant, Mont Tremblant",
+    "latitude":46.2146856,
+    "longitude":-74.5848665
+  },
+  {
+    "name":"Fairmont Winnipeg",
+    "city":"Winnipeg, MB",
+    "query":"Fairmont Winnipeg, Winnipeg, MB",
+    "latitude":49.8958415,
+    "longitude":-97.1369872
+  },
+  {
+    "name":"Fantasyland Hotel",
+    "city":"West Edmonton Mall",
+    "query":"Fantasyland Hotel, West Edmonton Mall",
+    "latitude":53.5222107,
+    "longitude":-113.6276417
+  },
+  {
+    "name":"Fogo Island Inn",
+    "city":"Fogo Island, NL",
+    "query":"Fogo Island Inn, Fogo Island, NL",
+    "latitude":49.7304449,
+    "longitude":-54.1782406
+  },
+  {
+    "name":"Forest Park Hotel",
+    "city":"Jasper",
+    "query":"Forest Park Hotel, Jasper",
+    "latitude":52.8895444,
+    "longitude":-118.0770694
+  },
+  {
+    "name":"Fox Harb'r Resort",
+    "city":"Wallace, NS",
+    "query":"Fox Harb'r Resort, Wallace, NS",
+    "latitude":45.8681,
+    "longitude":-63.4538864
+  },
+  {
+    "name":"Fox Hotel & Suites",
+    "city":"Banff",
+    "query":"Fox Hotel & Suites, Banff",
+    "latitude":51.1834549,
+    "longitude":-115.5631872
+  },
+  {
+    "name":"Fredericton Inn",
+    "city":"Fredericton, NB",
+    "query":"Fredericton Inn, Fredericton, NB",
+    "latitude":45.9357811,
+    "longitude":-66.661439
+  },
+  {
+    "name":"Gite Du Mont Albert",
+    "city":"Auberge Lac-A-l'Eau-Claire",
+    "query":"Gite Du Mont Albert, Auberge Lac-A-l'Eau-Claire",
+    "latitude":48.937561,
+    "longitude":-66.119639
+  },
+  {
+    "name":"Glacier View Lodge",
+    "city":"Columbia Icefield",
+    "query":"Glacier View Lodge, Columbia Icefield",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Gold Eagle Lodge",
+    "city":"North Battleford, SK",
+    "query":"Gold Eagle Lodge, North Battleford, SK",
+    "latitude":52.7573308,
+    "longitude":-108.2674813
+  },
+  {
+    "name":"Grande Rockies Resort",
+    "city":"Canmore",
+    "query":"Grande Rockies Resort, Canmore",
+    "latitude":51.0905534,
+    "longitude":-115.3484178
+  },
+  {
+    "name":"Grenfell Heritage Hotel & Suites",
+    "city":"St Anthony, NL",
+    "query":"Grenfell Heritage Hotel & Suites, St Anthony, NL",
+    "latitude":51.3639792,
+    "longitude":-55.5873573
+  },
+  {
+    "name":"Gros Morne Inn",
+    "city":"Shoal Brook, NL",
+    "query":"Gros Morne Inn, Shoal Brook, NL",
+    "latitude":49.4796676,
+    "longitude":-57.930355
+  },
+  {
+    "name":"Harbour Lights Inn",
+    "city":"Twillingate, NL",
+    "query":"Harbour Lights Inn, Twillingate, NL",
+    "latitude":49.6547382,
+    "longitude":-54.7737497
+  },
+  {
+    "name":"Harbourview Inn",
+    "city":"Smiths Cove, NS",
+    "query":"Harbourview Inn, Smiths Cove, NS",
+    "latitude":44.6119467,
+    "longitude":-65.708288
+  },
+  {
+    "name":"Hidden Ridge Resort",
+    "city":"Banff",
+    "query":"Hidden Ridge Resort, Banff",
+    "latitude":51.1880709,
+    "longitude":-115.546201
+  },
+  {
+    "name":"Hillsdale House Inn",
+    "city":"Annapolis Royal, NS",
+    "query":"Hillsdale House Inn, Annapolis Royal, NS",
+    "latitude":44.7405463,
+    "longitude":-65.5110317
+  },
+  {
+    "name":"Hilton Garden Inn Saskatoon Downtown",
+    "city":"Saskatoon, SK",
+    "query":"Hilton Garden Inn Saskatoon Downtown, Saskatoon, SK",
+    "latitude":52.1297407,
+    "longitude":-106.6656429
+  },
+  {
+    "name":"Hilton Hotel & Suites Niagara Falls Fallsview",
+    "city":"Niagara Falls",
+    "query":"Hilton Hotel & Suites Niagara Falls Fallsview, Niagara Falls",
+    "latitude":43.0824822,
+    "longitude":-79.0835957
+  },
+  {
+    "name":"Holiday Inn Express & Suites",
+    "city":"Mont Tremblant",
+    "query":"Holiday Inn Express & Suites, Mont Tremblant",
+    "latitude":46.2109865,
+    "longitude":-74.5861334
+  },
+  {
+    "name":"Holiday Inn Express Deer Lake",
+    "city":"Deer Lake, NL",
+    "query":"Holiday Inn Express Deer Lake, Deer Lake, NL",
+    "latitude":49.180568,
+    "longitude":-57.4360018
+  },
+  {
+    "name":"Holiday Inn Kingston Waterfront",
+    "city":"Kingston",
+    "query":"Holiday Inn Kingston Waterfront, Kingston",
+    "latitude":44.2307097,
+    "longitude":-76.478169
+  },
+  {
+    "name":"Holiday Inn Toronto Downtown",
+    "city":"Toronto",
+    "query":"Holiday Inn Toronto Downtown, Toronto",
+    "latitude":43.6617792,
+    "longitude":-79.3810472
+  },
+  {
+    "name":"Hotel 71",
+    "city":"Auberge Saint-Antoine",
+    "query":"Hotel 71, Auberge Saint-Antoine",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Hotel Arts",
+    "city":"Calgary",
+    "query":"Hotel Arts, Calgary",
+    "latitude":51.0412806,
+    "longitude":-114.0650429
+  },
+  {
+    "name":"Hotel Canoe & Suites",
+    "city":"Banff",
+    "query":"Hotel Canoe & Suites, Banff",
+    "latitude":51.1857319,
+    "longitude":-115.5547245
+  },
+  {
+    "name":"Hotel Chateau Albert",
+    "city":"Bertrand, NB",
+    "query":"Hotel Chateau Albert, Bertrand, NB",
+    "latitude":47.7865912,
+    "longitude":-65.1039106
+  },
+  {
+    "name":"Hotel Chicoutimi",
+    "city":"Chicoutimi",
+    "query":"Hotel Chicoutimi, Chicoutimi",
+    "latitude":48.4283029,
+    "longitude":-71.0537292
+  },
+  {
+    "name":"Hotel Clarendon",
+    "city":"Auberge Saint-Antoine",
+    "query":"Hotel Clarendon, Auberge Saint-Antoine",
+    "latitude":46.8144095,
+    "longitude":-71.2021927
+  },
+  {
+    "name":"Hotel Clique Calgary Airport",
+    "city":"Best Western Premier-Calgary Plaza Hotel & Conference Centre",
+    "query":"Hotel Clique Calgary Airport, Best Western Premier-Calgary Plaza Hotel & Conference Centre",
+    "latitude":51.0649681,
+    "longitude":-113.9852828
+  },
+  {
+    "name":"Hotel Halifax",
+    "city":"Halifax, NS",
+    "query":"Hotel Halifax, Halifax, NS",
+    "latitude":44.6508326,
+    "longitude":-63.5769408
+  },
+  {
+    "name":"Hotel Levesque",
+    "city":"RiviÃ¨re du Loup",
+    "query":"Hotel Levesque, RiviÃ¨re du Loup",
+    "latitude":47.8285324,
+    "longitude":-69.5534872
+  },
+  {
+    "name":"Hotel Manoir Victoria",
+    "city":"Auberge Saint-Antoine",
+    "query":"Hotel Manoir Victoria, Auberge Saint-Antoine",
+    "latitude":46.8144095,
+    "longitude":-71.2021927
+  },
+  {
+    "name":"Hotel Shediac",
+    "city":"Shediac, NB",
+    "query":"Hotel Shediac, Shediac, NB",
+    "latitude":46.2207356,
+    "longitude":-64.5410961
+  },
+  {
+    "name":"Hotel Tadoussac",
+    "city":"Tadoussac",
+    "query":"Hotel Tadoussac, Tadoussac",
+    "latitude":48.142331,
+    "longitude":-69.7159649
+  },
+  {
+    "name":"Hotel William Gray",
+    "city":"Auberge du Vieux-Port",
+    "query":"Hotel William Gray, Auberge du Vieux-Port",
+    "latitude":45.5063931,
+    "longitude":-73.5527947
+  },
+  {
+    "name":"Hotel du Jardin",
+    "city":"Saint-FÃ©licien",
+    "query":"Hotel du Jardin, Saint-FÃ©licien",
+    "latitude":48.6570794,
+    "longitude":-72.4563233
+  },
+  {
+    "name":"Hotel on Pownal",
+    "city":"Charlottetown, PE",
+    "query":"Hotel on Pownal, Charlottetown, PE",
+    "latitude":46.2341594,
+    "longitude":-63.1301396
+  },
+  {
+    "name":"HÃ´tel Sacacomie",
+    "city":"Auberge Lac-A-l'Eau-Claire",
+    "query":"HÃ´tel Sacacomie, Auberge Lac-A-l'Eau-Claire",
+    "latitude":46.5322217,
+    "longitude":-73.2217309
+  },
+  {
+    "name":"Inn at the Forks",
+    "city":"Winnipeg, MB",
+    "query":"Inn at the Forks, Winnipeg, MB",
+    "latitude":49.8878859,
+    "longitude":-97.1295706
+  },
+  {
+    "name":"Innisfree Hopewell Rocks B&B",
+    "city":"Hopewell Rocks \/ Lower Cape, NB",
+    "query":"Innisfree Hopewell Rocks B&B, Hopewell Rocks \/ Lower Cape, NB",
+    "latitude":45.824356,
+    "longitude":-64.5907746
+  },
+  {
+    "name":"Inverary Resort",
+    "city":"Baddeck, NS",
+    "query":"Inverary Resort, Baddeck, NS",
+    "latitude":46.0963322,
+    "longitude":-60.7563076
+  },
+  {
+    "name":"Irwin's Mountain Inn",
+    "city":"Banff",
+    "query":"Irwin's Mountain Inn, Banff",
+    "latitude":51.1822179,
+    "longitude":-115.5664782
+  },
+  {
+    "name":"JAG Boutique Hotel",
+    "city":"St John's, NL",
+    "query":"JAG Boutique Hotel, St John's, NL",
+    "latitude":47.5578105,
+    "longitude":-52.7125455
+  },
+  {
+    "name":"Jasper Inn & Suites by Sunrise",
+    "city":"Jasper",
+    "query":"Jasper Inn & Suites by Sunrise, Jasper",
+    "latitude":52.8846038,
+    "longitude":-118.0807639
+  },
+  {
+    "name":"Keltic Lodge Resort & Spa",
+    "city":"Ingonish, NS",
+    "query":"Keltic Lodge Resort & Spa, Ingonish, NS",
+    "latitude":46.64083,
+    "longitude":-60.403964
+  },
+  {
+    "name":"Killarney Mountain Lodge",
+    "city":"Killarney",
+    "query":"Killarney Mountain Lodge, Killarney",
+    "latitude":45.9698144,
+    "longitude":-81.5073796
+  },
+  {
+    "name":"Killarney Mountain Lodge",
+    "city":"Killarney",
+    "query":"Killarney Mountain Lodge, Killarney",
+    "latitude":45.9698144,
+    "longitude":-81.5073796
+  },
+  {
+    "name":"La Reata Ranch",
+    "city":"Kyle, SK",
+    "query":"La Reata Ranch, Kyle, SK",
+    "latitude":50.6669578,
+    "longitude":-108.2062051
+  },
+  {
+    "name":"Lake Louise Inn",
+    "city":"Banff",
+    "query":"Lake Louise Inn, Banff",
+    "latitude":51.1784304,
+    "longitude":-115.5707903
+  },
+  {
+    "name":"Le Germain Charlevoix Hotel & Spa",
+    "city":"Baie-St-Paul",
+    "query":"Le Germain Charlevoix Hotel & Spa, Baie-St-Paul",
+    "latitude":47.4359594,
+    "longitude":-70.5055303
+  },
+  {
+    "name":"Le Germain Hotel Calgary",
+    "city":"Calgary",
+    "query":"Le Germain Hotel Calgary, Calgary",
+    "latitude":51.0448961,
+    "longitude":-114.0633852
+  },
+  {
+    "name":"Le Germain Hotel Maple Leaf Square",
+    "city":"Toronto",
+    "query":"Le Germain Hotel Maple Leaf Square, Toronto",
+    "latitude":43.6427925,
+    "longitude":-79.3808844
+  },
+  {
+    "name":"Le Germain Hotel Montreal",
+    "city":"Auberge du Vieux-Port",
+    "query":"Le Germain Hotel Montreal, Auberge du Vieux-Port",
+    "latitude":45.5063931,
+    "longitude":-73.5527947
+  },
+  {
+    "name":"Le Germain Hotel Ottawa",
+    "city":"Ottawa",
+    "query":"Le Germain Hotel Ottawa, Ottawa",
+    "latitude":45.4259015,
+    "longitude":-75.6881914
+  },
+  {
+    "name":"Le Germain Hotel Quebec",
+    "city":"Auberge Saint-Antoine",
+    "query":"Le Germain Hotel Quebec, Auberge Saint-Antoine",
+    "latitude":46.8144095,
+    "longitude":-71.2021927
+  },
+  {
+    "name":"Le Germain Hotel Toronto Mercer",
+    "city":"Toronto",
+    "query":"Le Germain Hotel Toronto Mercer, Toronto",
+    "latitude":43.6458047,
+    "longitude":-79.3911135
+  },
+  {
+    "name":"Le Mount Stephen Hotel",
+    "city":"Auberge du Vieux-Port",
+    "query":"Le Mount Stephen Hotel, Auberge du Vieux-Port",
+    "latitude":45.5063931,
+    "longitude":-73.5527947
+  },
+  {
+    "name":"Le Place D'Armes Hotel & Suites",
+    "city":"Auberge du Vieux-Port",
+    "query":"Le Place D'Armes Hotel & Suites, Auberge du Vieux-Port",
+    "latitude":45.5055007,
+    "longitude":-73.5574371
+  },
+  {
+    "name":"Le Westin Resort and Spa",
+    "city":"Place St-Bernard",
+    "query":"Le Westin Resort and Spa, Place St-Bernard",
+    "latitude":null,
+    "longitude":null
+  },
+  {
+    "name":"Leaside Manor",
+    "city":"St John's, NL",
+    "query":"Leaside Manor, St John's, NL",
+    "latitude":47.5455604,
+    "longitude":-52.7236448
+  },
+  {
+    "name":"Liscombe Lodge",
+    "city":"Liscombe Mills, NS",
+    "query":"Liscombe Lodge, Liscombe Mills, NS",
+    "latitude":45.0126901,
+    "longitude":-62.1012429
+  },
+  {
+    "name":"Lobstick Lodge",
+    "city":"Jasper",
+    "query":"Lobstick Lodge, Jasper",
+    "latitude":52.886496,
+    "longitude":-118.080126
+  },
+  {
+    "name":"Lord Elgin Hotel",
+    "city":"Ottawa",
+    "query":"Lord Elgin Hotel, Ottawa",
+    "latitude":45.4214073,
+    "longitude":-75.6936556
+  },
+  {
+    "name":"Lord Nelson Hotel",
+    "city":"Halifax, NS",
+    "query":"Lord Nelson Hotel, Halifax, NS",
+    "latitude":44.642688,
+    "longitude":-63.5795952
+  },
+  {
+    "name":"Loyalist Country Inn",
+    "city":"Summerside, PE",
+    "query":"Loyalist Country Inn, Summerside, PE",
+    "latitude":46.390271,
+    "longitude":-63.7887514
+  },
+  {
+    "name":"MTN House",
+    "city":"Canmore",
+    "query":"MTN House, Canmore",
+    "latitude":51.0932114,
+    "longitude":-115.3447315
+  },
+  {
+    "name":"Maison Fiset House",
+    "city":"Cheticamp, NS",
+    "query":"Maison Fiset House, Cheticamp, NS",
+    "latitude":46.6219354,
+    "longitude":-61.018641
+  },
+  {
+    "name":"Manitoulin Hotel & Conference Centre",
+    "city":"Little Current \/ Manitoulin Island",
+    "query":"Manitoulin Hotel & Conference Centre, Little Current \/ Manitoulin Island",
+    "latitude":45.9789924,
+    "longitude":-81.9189605
+  },
+  {
+    "name":"Manoir Hovey",
+    "city":"North Hatley",
+    "query":"Manoir Hovey, North Hatley",
+    "latitude":45.2640342,
+    "longitude":-71.9953308
+  },
+  {
+    "name":"Marble Inn & Suites",
+    "city":"Steady Brook, NL",
+    "query":"Marble Inn & Suites, Steady Brook, NL",
+    "latitude":48.9515208,
+    "longitude":-57.8352351
+  },
+  {
+    "name":"Marmot Lodge",
+    "city":"Jasper",
+    "query":"Marmot Lodge, Jasper",
+    "latitude":52.8881618,
+    "longitude":-118.0774022
+  },
+  {
+    "name":"Marriott Fallsview Hotel & Spa",
+    "city":"Niagara Falls",
+    "query":"Marriott Fallsview Hotel & Spa, Niagara Falls",
+    "latitude":43.07859,
+    "longitude":-79.082039
+  },
+  {
+    "name":"Marriott on the Falls",
+    "city":"Niagara Falls",
+    "query":"Marriott on the Falls, Niagara Falls",
+    "latitude":43.077405,
+    "longitude":-79.082692
+  },
+  {
+    "name":"Metis Crossing",
+    "city":"Smokey Lake",
+    "query":"Metis Crossing, Smokey Lake",
+    "latitude":53.9934922,
+    "longitude":-112.4694012
+  },
+  {
+    "name":"Midnight Sun Hotel",
+    "city":"Dawson City, YT",
+    "query":"Midnight Sun Hotel, Dawson City, YT",
+    "latitude":64.0621029,
+    "longitude":-139.4325221
+  },
+  {
+    "name":"Millcroft Inn & Spa",
+    "city":"Alton",
+    "query":"Millcroft Inn & Spa, Alton",
+    "latitude":43.8563001,
+    "longitude":-80.0766718
+  },
+  {
+    "name":"Monastery Hotel",
+    "city":"St John's, NL",
+    "query":"Monastery Hotel, St John's, NL",
+    "latitude":47.5532671,
+    "longitude":-52.7181141
+  },
+  {
+    "name":"Moose Hotel & Suites",
+    "city":"Banff",
+    "query":"Moose Hotel & Suites, Banff",
+    "latitude":51.1806907,
+    "longitude":-115.5693817
+  },
+  {
+    "name":"Moraine Lake Lodge",
+    "city":"Banff",
+    "query":"Moraine Lake Lodge, Banff",
+    "latitude":51.1784304,
+    "longitude":-115.5707903
+  },
+  {
+    "name":"Mount Royal Hotel",
+    "city":"Banff",
+    "query":"Mount Royal Hotel, Banff",
+    "latitude":51.1763889,
+    "longitude":-115.5705556
+  },
+  {
+    "name":"Mountaineer Lodge",
+    "city":"Banff",
+    "query":"Mountaineer Lodge, Banff",
+    "latitude":51.4243632,
+    "longitude":-116.177328
+  },
+  {
+    "name":"Baker's Creek Campground",
+    "city":"Banff",
+    "query":"Baker's Creek Campground, Banff",
+    "latitude":51.1784304,
+    "longitude":-115.5707903
+  },
+  {
+    "name":"Murray Premises Hotel",
+    "city":"St John's, NL",
+    "query":"Murray Premises Hotel, St John's, NL",
+    "latitude":47.5614819,
+    "longitude":-52.709541
+  },
+  {
+    "name":"Neddies Harbour Inn",
+    "city":"Norris Point, NL",
+    "query":"Neddies Harbour Inn, Norris Point, NL",
+    "latitude":49.5248413,
+    "longitude":-57.8607025
+  },
+  {
+    "name":"Nova Inn",
+    "city":"Inuvik, NT",
+    "query":"Nova Inn, Inuvik, NT",
+    "latitude":68.3546905,
+    "longitude":-133.7006988
+  },
+  {
+    "name":"Novotel Toronto Centre",
+    "city":"Toronto",
+    "query":"Novotel Toronto Centre, Toronto",
+    "latitude":43.646567,
+    "longitude":-79.3742742
+  },
+  {
+    "name":"Oakes Hotel Overlooking the Falls",
+    "city":"Niagara Falls",
+    "query":"Oakes Hotel Overlooking the Falls, Niagara Falls",
+    "latitude":43.0802034,
+    "longitude":-79.081859
+  },
+  {
+    "name":"Ocean View Hotel",
+    "city":"Rocky Harbour, NL",
+    "query":"Ocean View Hotel, Rocky Harbour, NL",
+    "latitude":49.5904004,
+    "longitude":-57.9161625
+  },
+  {
+    "name":"Otter Hotel",
+    "city":"Banff",
+    "query":"Otter Hotel, Banff",
+    "latitude":51.1849583,
+    "longitude":-115.5561839
+  },
+  {
+    "name":"Pangea House Bed & Breakfast",
+    "city":"Gananoque",
+    "query":"Pangea House Bed & Breakfast, Gananoque",
+    "latitude":44.3280663,
+    "longitude":-76.1675211
+  },
+  {
+    "name":"Pantages Hotel Toronto Centre",
+    "city":"Toronto",
+    "query":"Pantages Hotel Toronto Centre, Toronto",
+    "latitude":43.6546283,
+    "longitude":-79.3790873
+  },
+  {
+    "name":"Phare du Pot a l'Eau de Vie Lighthouse",
+    "city":"RiviÃ¨re du Loup",
+    "query":"Phare du Pot a l'Eau de Vie Lighthouse, RiviÃ¨re du Loup",
+    "latitude":47.8726414,
+    "longitude":-69.6815673
+  },
+  {
+    "name":"Pillar & Post Hotel",
+    "city":"Niagara-on-the-Lake",
+    "query":"Pillar & Post Hotel, Niagara-on-the-Lake",
+    "latitude":43.248583,
+    "longitude":-79.078011
+  },
+  {
+    "name":"Pocaterra Inn & Waterslide",
+    "city":"Canmore",
+    "query":"Pocaterra Inn & Waterslide, Canmore",
+    "latitude":51.1016951,
+    "longitude":-115.3608879
+  },
+  {
+    "name":"Pomeroy Kananaskis Mountain Lodge",
+    "city":"Kananaskis",
+    "query":"Pomeroy Kananaskis Mountain Lodge, Kananaskis",
+    "latitude":50.9187183,
+    "longitude":-115.146296
+  },
+  {
+    "name":"Post Hotel & Spa",
+    "city":"Baker Creek by Basecamp - New",
+    "query":"Post Hotel & Spa, Baker Creek by Basecamp - New",
+    "latitude":51.4264491,
+    "longitude":-116.1812834
+  },
+  {
+    "name":"Prince of Wales Hotel & Spa",
+    "city":"Niagara-on-the-Lake",
+    "query":"Prince of Wales Hotel & Spa, Niagara-on-the-Lake",
+    "latitude":43.254559,
+    "longitude":-79.070819
+  },
+  {
+    "name":"Pyramid Lake Resort",
+    "city":"Pine Bungalows - New",
+    "query":"Pyramid Lake Resort, Pine Bungalows - New",
+    "latitude":52.8899574,
+    "longitude":-118.0674209
+  },
+  {
+    "name":"Queen Anne Inn",
+    "city":"Annapolis Royal, NS",
+    "query":"Queen Anne Inn, Annapolis Royal, NS",
+    "latitude":44.7415934,
+    "longitude":-65.5115677
+  },
+  {
+    "name":"Queen's Landing",
+    "city":"Niagara-on-the-Lake",
+    "query":"Queen's Landing, Niagara-on-the-Lake",
+    "latitude":43.2538823,
+    "longitude":-79.0648486
+  },
+  {
+    "name":"Quirpon Lighthouse Inn",
+    "city":"Quirpon Island, NL",
+    "query":"Quirpon Lighthouse Inn, Quirpon Island, NL",
+    "latitude":51.6397879,
+    "longitude":-55.4270797
+  },
+  {
+    "name":"Red Carpet Inn",
+    "city":"Banff",
+    "query":"Red Carpet Inn, Banff",
+    "latitude":51.1821016,
+    "longitude":-115.5670222
+  },
+  {
+    "name":"Rimrock Resort Hotel",
+    "city":"Banff",
+    "query":"Rimrock Resort Hotel, Banff",
+    "latitude":51.1515995,
+    "longitude":-115.5599407
+  },
+  {
+    "name":"Riverside Inn",
+    "city":"New Glasgow, NS",
+    "query":"Riverside Inn, New Glasgow, NS",
+    "latitude":45.5903026,
+    "longitude":-62.644898
+  },
+  {
+    "name":"Rodd Brudenell River Resort",
+    "city":"Cardigan, PE",
+    "query":"Rodd Brudenell River Resort, Cardigan, PE",
+    "latitude":46.201248,
+    "longitude":-62.588424
+  },
+  {
+    "name":"Rodd Charlottetown",
+    "city":"Charlottetown, PE",
+    "query":"Rodd Charlottetown, Charlottetown, PE",
+    "latitude":46.2347516,
+    "longitude":-63.1306135
+  },
+  {
+    "name":"Rodd Crowbush Golf & Beach Resort",
+    "city":"Morell, PE",
+    "query":"Rodd Crowbush Golf & Beach Resort, Morell, PE",
+    "latitude":46.4294378,
+    "longitude":-62.7927886
+  },
+  {
+    "name":"Rodd Grand Yarmouth",
+    "city":"Yarmouth, NS",
+    "query":"Rodd Grand Yarmouth, Yarmouth, NS",
+    "latitude":43.8392028,
+    "longitude":-66.1189804
+  },
+  {
+    "name":"Rodd Miramichi River",
+    "city":"Miramichi, NB",
+    "query":"Rodd Miramichi River, Miramichi, NB",
+    "latitude":47.0316848,
+    "longitude":-65.4695434
+  },
+  {
+    "name":"Rodd Moncton",
+    "city":"Moncton, NB",
+    "query":"Rodd Moncton, Moncton, NB",
+    "latitude":46.0906201,
+    "longitude":-64.7703014
+  },
+  {
+    "name":"Rodd Royalty",
+    "city":"Charlottetown, PE",
+    "query":"Rodd Royalty, Charlottetown, PE",
+    "latitude":46.2659528,
+    "longitude":-63.1497167
+  },
+  {
+    "name":"Royal Canadian Lodge",
+    "city":"Banff",
+    "query":"Royal Canadian Lodge, Banff",
+    "latitude":51.1832373,
+    "longitude":-115.563815
+  },
+  {
+    "name":"Rundlestone Lodge",
+    "city":"Banff",
+    "query":"Rundlestone Lodge, Banff",
+    "latitude":51.1848778,
+    "longitude":-115.5585874
+  },
+  {
+    "name":"Sandman Hotel & Suites Calgary Airport",
+    "city":"Calgary",
+    "query":"Sandman Hotel & Suites Calgary Airport, Calgary",
+    "latitude":51.0852732,
+    "longitude":-114.2089817
+  },
+  {
+    "name":"Best Western Premier-Calgary Plaza Hotel & Conference Centre",
+    "city":"Calgary",
+    "query":"Best Western Premier-Calgary Plaza Hotel & Conference Centre, Calgary",
+    "latitude":51.0649681,
+    "longitude":-113.9852828
+  },
+  {
+    "name":"Sandman Hotel & Suites Regina",
+    "city":"Regina, SK",
+    "query":"Sandman Hotel & Suites Regina, Regina, SK",
+    "latitude":50.4480824,
+    "longitude":-104.5587951
+  },
+  {
+    "name":"Sandman Hotel Calgary West",
+    "city":"Calgary West",
+    "query":"Sandman Hotel Calgary West, Calgary West",
+    "latitude":51.0852732,
+    "longitude":-114.2089817
+  },
+  {
+    "name":"Sandman Hotel Lethbridge",
+    "city":"Lethbridge",
+    "query":"Sandman Hotel Lethbridge, Lethbridge",
+    "latitude":49.6945951,
+    "longitude":-112.8099067
+  },
+  {
+    "name":"Sandman Hotel Red Deer",
+    "city":"Red Deer",
+    "query":"Sandman Hotel Red Deer, Red Deer",
+    "latitude":52.2470505,
+    "longitude":-113.8157978
+  },
+  {
+    "name":"Sandman Hotel Saskatoon",
+    "city":"Saskatoon, SK",
+    "query":"Sandman Hotel Saskatoon, Saskatoon, SK",
+    "latitude":52.1583653,
+    "longitude":-106.6741767
+  },
+  {
+    "name":"Sandman Hotel West Edmonton",
+    "city":"West Edmonton Mall",
+    "query":"Sandman Hotel West Edmonton, West Edmonton Mall",
+    "latitude":53.540172,
+    "longitude":-113.6264927
+  },
+  {
+    "name":"Sandman Hotel Winnipeg Airport",
+    "city":"Winnipeg Airport, MB",
+    "query":"Sandman Hotel Winnipeg Airport, Winnipeg Airport, MB",
+    "latitude":49.8973703,
+    "longitude":-97.2044518
+  },
+  {
+    "name":"Sandman Inn Grande Prairie",
+    "city":"Grande Prairie",
+    "query":"Sandman Inn Grande Prairie, Grande Prairie",
+    "latitude":55.170691,
+    "longitude":-118.7884808
+  },
+  {
+    "name":"Sandman Montreal Longueuil",
+    "city":"Hotel Saint-Sulpice",
+    "query":"Sandman Montreal Longueuil, Hotel Saint-Sulpice",
+    "latitude":45.5249779,
+    "longitude":-73.5231722
+  },
+  {
+    "name":"Sandman Signature Calgary Downtown Hotel",
+    "city":"Calgary",
+    "query":"Sandman Signature Calgary Downtown Hotel, Calgary",
+    "latitude":51.0472776,
+    "longitude":-114.0809594
+  },
+  {
+    "name":"Sandman Signature Edmonton Downtown Hotel",
+    "city":"Edmonton",
+    "query":"Sandman Signature Edmonton Downtown Hotel, Edmonton",
+    "latitude":53.5449339,
+    "longitude":-113.4931031
+  },
+  {
+    "name":"Sandman Signature Ottawa Airport",
+    "city":"Ottawa Airport",
+    "query":"Sandman Signature Ottawa Airport, Ottawa Airport",
+    "latitude":45.3178429,
+    "longitude":-75.6658889
+  },
+  {
+    "name":"Sandman Signature Saskatoon South Hotel",
+    "city":"Saskatoon, SK",
+    "query":"Sandman Signature Saskatoon South Hotel, Saskatoon, SK",
+    "latitude":52.0944252,
+    "longitude":-106.6693312
+  },
+  {
+    "name":"Sandman Signature St. John's",
+    "city":"St John's, NL",
+    "query":"Sandman Signature St. John's, St John's, NL",
+    "latitude":47.551503,
+    "longitude":-52.7734504
+  },
+  {
+    "name":"Sandman Signature Toronto Airport",
+    "city":"Toronto Airport",
+    "query":"Sandman Signature Toronto Airport, Toronto Airport",
+    "latitude":43.6898325,
+    "longitude":-79.5907936
+  },
+  {
+    "name":"Sandman Signature Winnipeg Airport",
+    "city":"Winnipeg Airport, MB",
+    "query":"Sandman Signature Winnipeg Airport, Winnipeg Airport, MB",
+    "latitude":49.909744,
+    "longitude":-97.2363915
+  },
+  {
+    "name":"Shaw Club Hotel & Spa",
+    "city":"Niagara-on-the-Lake",
+    "query":"Shaw Club Hotel & Spa, Niagara-on-the-Lake",
+    "latitude":43.253128,
+    "longitude":-79.0682678
+  },
+  {
+    "name":"Sheraton Fallsview",
+    "city":"Niagara Falls",
+    "query":"Sheraton Fallsview, Niagara Falls",
+    "latitude":43.0910507,
+    "longitude":-79.0727412
+  },
+  {
+    "name":"Sheraton Hotel Newfoundland",
+    "city":"St John's, NL",
+    "query":"Sheraton Hotel Newfoundland, St John's, NL",
+    "latitude":47.5712347,
+    "longitude":-52.700327
+  },
+  {
+    "name":"Silver Dart Lodge",
+    "city":"Baddeck, NS",
+    "query":"Silver Dart Lodge, Baddeck, NS",
+    "latitude":46.095354,
+    "longitude":-60.7618591
+  },
+  {
+    "name":"Sinbad's Hotel & Suites",
+    "city":"Gander, NL",
+    "query":"Sinbad's Hotel & Suites, Gander, NL",
+    "latitude":48.952844,
+    "longitude":-54.605463
+  },
+  {
+    "name":"Smuggler's Cove Inn",
+    "city":"Lunenburg, NS",
+    "query":"Smuggler's Cove Inn, Lunenburg, NS",
+    "latitude":44.3764139,
+    "longitude":-64.3087139
+  },
+  {
+    "name":"Solara Resort & Spa",
+    "city":"Canmore",
+    "query":"Solara Resort & Spa, Canmore",
+    "latitude":51.0833188,
+    "longitude":-115.3418576
+  },
+  {
+    "name":"Southern Lakes Resort",
+    "city":"Tagish, YT",
+    "query":"Southern Lakes Resort, Tagish, YT",
+    "latitude":60.1644477,
+    "longitude":-134.3760833
+  },
+  {
+    "name":"Sportsman's Inn Resort & Marina",
+    "city":"Killarney",
+    "query":"Sportsman's Inn Resort & Marina, Killarney",
+    "latitude":52.0599609,
+    "longitude":-9.504537
+  },
+  {
+    "name":"St. Christopher's Hotel",
+    "city":"Port Aux Basques, NL",
+    "query":"St. Christopher's Hotel, Port Aux Basques, NL",
+    "latitude":47.5763125,
+    "longitude":-59.1425068
+  },
+  {
+    "name":"Sugar Hill Inn",
+    "city":"Norris Point, NL",
+    "query":"Sugar Hill Inn, Norris Point, NL",
+    "latitude":49.5365854,
+    "longitude":-57.8795172
+  },
+  {
+    "name":"Tattingstone Inn",
+    "city":"Wolfville, NS",
+    "query":"Tattingstone Inn, Wolfville, NS",
+    "latitude":45.0901969,
+    "longitude":-64.373971
+  },
+  {
+    "name":"Tekarra Lodge",
+    "city":"Pine Bungalows - New",
+    "query":"Tekarra Lodge, Pine Bungalows - New",
+    "latitude":52.6683,
+    "longitude":-118.0566999
+  },
+  {
+    "name":"Temple Gardens Mineral Spa",
+    "city":"Moose Jaw, SK",
+    "query":"Temple Gardens Mineral Spa, Moose Jaw, SK",
+    "latitude":50.3927362,
+    "longitude":-105.5333391
+  },
+  {
+    "name":"Thanksgiving Ranch",
+    "city":"Pincher Creek",
+    "query":"Thanksgiving Ranch, Pincher Creek",
+    "latitude":49.3238029,
+    "longitude":-113.9708364
+  },
+  {
+    "name":"The Algonquin Resort",
+    "city":"St Andrews, NB",
+    "query":"The Algonquin Resort, St Andrews, NB",
+    "latitude":45.0804673,
+    "longitude":-67.0553048
+  },
+  {
+    "name":"The Anndore House",
+    "city":"Toronto",
+    "query":"The Anndore House, Toronto",
+    "latitude":43.6685171,
+    "longitude":-79.3853826
+  },
+  {
+    "name":"The Barrington Hotel",
+    "city":"Halifax, NS",
+    "query":"The Barrington Hotel, Halifax, NS",
+    "latitude":44.64975,
+    "longitude":-63.5749827
+  },
+  {
+    "name":"The Crimson Jasper",
+    "city":"Jasper",
+    "query":"The Crimson Jasper, Jasper",
+    "latitude":52.8815105,
+    "longitude":-118.0788211
+  },
+  {
+    "name":"The Downtown",
+    "city":"Dawson City, YT",
+    "query":"The Downtown, Dawson City, YT",
+    "latitude":64.0623363,
+    "longitude":-139.4334356
+  },
+  {
+    "name":"The Glynmill Inn",
+    "city":"Corner Brook, NL",
+    "query":"The Glynmill Inn, Corner Brook, NL",
+    "latitude":48.949203,
+    "longitude":-57.94007
+  },
+  {
+    "name":"The Great George",
+    "city":"Charlottetown, PE",
+    "query":"The Great George, Charlottetown, PE",
+    "latitude":46.2340095,
+    "longitude":-63.1243876
+  },
+  {
+    "name":"The Halliburton",
+    "city":"Halifax, NS",
+    "query":"The Halliburton, Halifax, NS",
+    "latitude":44.6417836,
+    "longitude":-63.5708689
+  },
+  {
+    "name":"The Malcolm Hotel",
+    "city":"Canmore",
+    "query":"The Malcolm Hotel, Canmore",
+    "latitude":51.0867931,
+    "longitude":-115.3527281
+  },
+  {
+    "name":"The Metcalfe Hotel",
+    "city":"Ottawa",
+    "query":"The Metcalfe Hotel, Ottawa",
+    "latitude":45.4205056,
+    "longitude":-75.6951139
+  },
+  {
+    "name":"The Resort at Cypress Hills",
+    "city":"Maple Creek, SK",
+    "query":"The Resort at Cypress Hills, Maple Creek, SK",
+    "latitude":49.6618385,
+    "longitude":-109.5036163
+  },
+  {
+    "name":"The Ritz Carlton Montreal",
+    "city":"Auberge du Vieux-Port",
+    "query":"The Ritz Carlton Montreal, Auberge du Vieux-Port",
+    "latitude":45.5001857,
+    "longitude":-73.5778058
+  },
+  {
+    "name":"The Simon Hotel",
+    "city":"Sydney, NS",
+    "query":"The Simon Hotel, Sydney, NS",
+    "latitude":46.1360584,
+    "longitude":-60.195868
+  },
+  {
+    "name":"The Sutton Place Hotel Halifax",
+    "city":"Halifax, NS",
+    "query":"The Sutton Place Hotel Halifax, Halifax, NS",
+    "latitude":44.6466522,
+    "longitude":-63.5755882
+  },
+  {
+    "name":"The Hollis Halifax, a DoubleTree Suites by Hilton",
+    "city":"Halifax, NS",
+    "query":"The Hollis Halifax, a DoubleTree Suites by Hilton, Halifax, NS",
+    "latitude":44.6468723,
+    "longitude":-63.5719049
+  },
+  {
+    "name":"The Sutton Place Hotel Toronto",
+    "city":"Toronto",
+    "query":"The Sutton Place Hotel Toronto, Toronto",
+    "latitude":43.6460267,
+    "longitude":-79.3919151
+  },
+  {
+    "name":"The Tides Inn",
+    "city":"Norris Point, NL",
+    "query":"The Tides Inn, Norris Point, NL",
+    "latitude":49.5210956,
+    "longitude":-57.881113
+  },
+  {
+    "name":"Tobermory Princess Hotel",
+    "city":"Tobermory",
+    "query":"Tobermory Princess Hotel, Tobermory",
+    "latitude":45.2553106,
+    "longitude":-81.6620571
+  },
+  {
+    "name":"Tuckamore Lodge",
+    "city":"Main Brook, NL",
+    "query":"Tuckamore Lodge, Main Brook, NL",
+    "latitude":51.1610397,
+    "longitude":-56.0013038
+  },
+  {
+    "name":"Waterton Lakes Lodge Resort",
+    "city":"Waterton Park",
+    "query":"Waterton Lakes Lodge Resort, Waterton Park",
+    "latitude":49.0517707,
+    "longitude":-113.9098474
+  },
+  {
+    "name":"Whistler's Inn",
+    "city":"Pine Bungalows - New",
+    "query":"Whistler's Inn, Pine Bungalows - New",
+    "latitude":52.8764435,
+    "longitude":-118.0803335
+  },
+  {
+    "name":"White Point Beach Resort",
+    "city":"White Point Beach, NS",
+    "query":"White Point Beach Resort, White Point Beach, NS",
+    "latitude":43.9650882,
+    "longitude":-64.742666
+  }
+]

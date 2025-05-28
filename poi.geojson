@@ -1,0 +1,3189 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CN Tower",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "CN Tower, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3870568,
+          43.6425662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Ontario Museum",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Royal Ontario Museum, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3947771,
+          43.6677097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Gallery of Ontario",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Art Gallery of Ontario, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3925123,
+          43.6536066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ontario Science Centre",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Ontario Science Centre, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3389264,
+          43.7169351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Casa Loma",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Casa Loma, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4110854,
+          43.6845696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hockey Hall of Fame",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Hockey Hall of Fame, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3776902,
+          43.6472722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Distillery Historic District",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Distillery Historic District, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.35958,
+          43.6503055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Islands",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Toronto Islands, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3821859,
+          43.6165666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Lawrence Market",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "St. Lawrence Market, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3678899,
+          43.6503943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Creek Pioneer Village",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Black Creek Pioneer Village, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5169094,
+          43.7734388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ripley's Aquarium of Canada",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Ripley's Aquarium of Canada, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3866022,
+          43.6421785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allan Gardens Conservatory",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Allan Gardens Conservatory, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3755076,
+          43.6620432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Eaton Centre",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Toronto Eaton Centre, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3806994,
+          43.6544382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundas Square",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Dundas Square, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3797559,
+          43.6559119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Botanical Gardens",
+        "type": "poi", 
+        "city": "Burlington",
+        "query": "Royal Botanical Gardens, Burlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8753717,
+          43.2903892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niagara Falls",
+        "type": "poi", 
+        "city": "Niagara Falls",
+        "query": "Niagara Falls, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0377388,
+          43.0962143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skylon Tower",
+        "type": "poi", 
+        "city": "Niagara Falls",
+        "query": "Skylon Tower, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.079562,
+          43.0850931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whirlpool Aero Car",
+        "type": "poi", 
+        "city": "Niagara Falls",
+        "query": "Whirlpool Aero Car, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0687889,
+          43.1180306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butterfly Conservatory",
+        "type": "poi", 
+        "city": "Niagara Falls",
+        "query": "Butterfly Conservatory, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0555897,
+          43.1370218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niagara Parks Botanical Gardens",
+        "type": "poi", 
+        "city": "Niagara Falls",
+        "query": "Niagara Parks Botanical Gardens, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0568262,
+          43.1353292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort York",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Fort York, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4042712,
+          43.6381753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parliament Hill",
+        "type": "poi", 
+        "city": "Ottawa",
+        "query": "Parliament Hill, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.700929,
+          45.4235937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canadian Museum of Nature",
+        "type": "poi", 
+        "city": "Ottawa",
+        "query": "Canadian Museum of Nature, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6886373,
+          45.4127661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank of Canada Museum",
+        "type": "poi", 
+        "city": "Ottawa",
+        "query": "Bank of Canada Museum, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7020222,
+          45.4214739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rideau Canal",
+        "type": "poi", 
+        "city": "Ottawa",
+        "query": "Rideau Canal, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6920584645,
+          45.3964367985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ByWard Market",
+        "type": "poi", 
+        "city": "Ottawa",
+        "query": "ByWard Market, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6911592,
+          45.4288655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McMichael Canadian Art Collection",
+        "type": "poi", 
+        "city": "Kleinburg",
+        "query": "McMichael Canadian Art Collection, Kleinburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6164607,
+          43.8435235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Jacobs Farmers' Market",
+        "type": "poi", 
+        "city": "Waterloo",
+        "query": "St. Jacobs Farmers' Market, Waterloo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5550154,
+          43.510908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stratford Festival",
+        "type": "poi", 
+        "city": "Stratford",
+        "query": "Stratford Festival, Stratford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9685626,
+          43.3743499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort George",
+        "type": "poi", 
+        "city": "Niagara-on-the-Lake",
+        "query": "Fort George, Niagara-on-the-Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0616066,
+          43.2508023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Canada Village",
+        "type": "poi", 
+        "city": "Morrisburg",
+        "query": "Upper Canada Village, Morrisburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.066667,
+          44.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elora Gorge",
+        "type": "poi", 
+        "city": "Elora",
+        "query": "Elora Gorge, Elora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.444442,
+          43.671904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "1000 Islands",
+        "type": "poi", 
+        "city": "Kingston",
+        "query": "1000 Islands, Kingston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.479728,
+          44.2307599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Zoo",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Toronto Zoo, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1854373,
+          43.8178667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evergreen Brick Works",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Evergreen Brick Works, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3647127,
+          43.6843314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yonge-Dundas Square",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Yonge-Dundas Square, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3804512,
+          43.6559137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ontario Place",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Ontario Place, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3831843,
+          43.653226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Michael's Cathedral Basilica",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "St. Michael's Cathedral Basilica, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3773952,
+          43.6549309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto City Hall",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Toronto City Hall, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3840901,
+          43.6534399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbourfront Centre",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Harbourfront Centre, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3818785,
+          43.638834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bata Shoe Museum",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "The Bata Shoe Museum, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4001806,
+          43.6672667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Park",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "High Park, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4636903,
+          43.6465479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen's Park",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Queen's Park, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3935293,
+          43.6672424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Conservatory of Music",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Royal Conservatory of Music, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3963244,
+          43.6679716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Alexandra Theatre",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Royal Alexandra Theatre, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3875894,
+          43.6473619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elgin & Winter Garden Theatre Centre",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Elgin & Winter Garden Theatre Centre, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3793958,
+          43.6530164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graffiti Alley",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Graffiti Alley, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.398474,
+          43.6479167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kensington Market",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Kensington Market, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4014566,
+          43.6545236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toronto Music Garden",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Toronto Music Garden, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3942958,
+          43.636955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen's Quay",
+        "type": "poi", 
+        "city": "Toronto",
+        "query": "Queen's Quay, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3895182,
+          43.6382515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canadian Children's Museum",
+        "type": "poi", 
+        "city": "Ottawa",
+        "query": "Canadian Children's Museum, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7099727,
+          45.4295294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Gallery of Hamilton",
+        "type": "poi", 
+        "city": "Hamilton",
+        "query": "Art Gallery of Hamilton, Hamilton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8721292,
+          43.2574328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HMCS Haida",
+        "type": "poi", 
+        "city": "Hamilton",
+        "query": "HMCS Haida, Hamilton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.855451,
+          43.275362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point Pelee National Park",
+        "type": "poi", 
+        "city": "Leamington",
+        "query": "Point Pelee National Park, Leamington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5200789,
+          52.2851905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Notre-Dame Basilica",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Notre-Dame Basilica, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5561204,
+          45.5045254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal Museum of Fine Arts",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Montreal Museum of Fine Arts, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5794001,
+          45.4985219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biodome",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Biodome, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5497189,
+          45.5596545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Montreal",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Old Montreal, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5544177,
+          45.5074534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Royal Park",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Mount Royal Park, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5932179,
+          45.5015664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olympic Stadium",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Olympic Stadium, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5515478,
+          45.5577438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McCord Museum",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "McCord Museum, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5734556,
+          45.5043088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Joseph's Oratory",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "St. Joseph's Oratory, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6164668,
+          45.4919122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jean-Talon Market",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Jean-Talon Market, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6148902,
+          45.5361095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal Science Centre",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Montreal Science Centre, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5507431,
+          45.5047874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pointe-Ã -CalliÃ¨re Museum",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Pointe-Ã -CalliÃ¨re Museum, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5673919,
+          45.5018869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lachine Canal",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Lachine Canal, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6069521852,
+          45.4656913269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quartier des Spectacles",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Quartier des Spectacles, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.563236,
+          45.512384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ChÃ¢teau Ramezay",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "ChÃ¢teau Ramezay, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5531273,
+          45.5087491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ChÃ¢teau Frontenac",
+        "type": "poi", 
+        "city": "Quebec City",
+        "query": "ChÃ¢teau Frontenac, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2052184,
+          46.8120085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citadelle of Quebec",
+        "type": "poi", 
+        "city": "Quebec City",
+        "query": "Citadelle of Quebec, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2068986,
+          46.8077997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plains of Abraham",
+        "type": "poi", 
+        "city": "Quebec City",
+        "query": "Plains of Abraham, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.220291,
+          46.8004085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montmorency Falls",
+        "type": "poi", 
+        "city": "Quebec City",
+        "query": "Montmorency Falls, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1477874,
+          46.8875043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Quebec",
+        "type": "poi", 
+        "city": "Quebec City",
+        "query": "Old Quebec, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2064933,
+          46.8121818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Observatoire de la Capitale",
+        "type": "poi", 
+        "city": "Quebec City",
+        "query": "Observatoire de la Capitale, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2178341,
+          46.8079699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sherbrooke Museum of Fine Arts",
+        "type": "poi", 
+        "city": "Sherbrooke",
+        "query": "Sherbrooke Museum of Fine Arts, Sherbrooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8945163,
+          45.4051585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canadian Museum of History",
+        "type": "poi", 
+        "city": "Gatineau",
+        "query": "Canadian Museum of History, Gatineau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7092006,
+          45.4301581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cosmodome",
+        "type": "poi", 
+        "city": "Laval",
+        "query": "Cosmodome, Laval"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7439227,
+          45.5667651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trois-RiviÃ¨res Art Museum",
+        "type": "poi", 
+        "city": "Trois-RiviÃ¨res",
+        "query": "Trois-RiviÃ¨res Art Museum, Trois-RiviÃ¨res"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6920109,
+          10.7649668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MusÃ©e du Fjord",
+        "type": "poi", 
+        "city": "Saguenay",
+        "query": "MusÃ©e du Fjord, Saguenay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0600102,
+          48.4276054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Ronde",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "La Ronde, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5345726,
+          45.5220819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Place des Arts",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Place des Arts, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5664312,
+          45.5083198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MontrÃ©al Botanical Garden",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "MontrÃ©al Botanical Garden, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5673919,
+          45.5018869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McGill University",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "McGill University, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5673919,
+          45.5018869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montreal Planetarium",
+        "type": "poi", 
+        "city": "Montreal",
+        "query": "Montreal Planetarium, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5504345,
+          45.560737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stanley Park",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Stanley Park, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1442523,
+          49.3042584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver Aquarium",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Vancouver Aquarium, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1308774,
+          49.3004876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capilano Suspension Bridge",
+        "type": "poi", 
+        "city": "North Vancouver",
+        "query": "Capilano Suspension Bridge, North Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1149244,
+          49.3428609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grouse Mountain Skyride",
+        "type": "poi", 
+        "city": "North Vancouver",
+        "query": "Grouse Mountain Skyride, North Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099143,
+          49.372151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Granville Island",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Granville Island, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1339931,
+          49.2711567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver Art Gallery",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Vancouver Art Gallery, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1204715,
+          49.2829607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Science World",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Science World, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.103834,
+          49.273376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Elizabeth Park",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Queen Elizabeth Park, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1126193,
+          49.241757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canada Place",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Canada Place, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1155982,
+          49.28817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gastown Steam Clock",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Gastown Steam Clock, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1088716,
+          49.2844086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robson Street",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Robson Street, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.114007,
+          49.2775813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver Seawall",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Vancouver Seawall, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1279796,
+          49.2960965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum of Anthropology at UBC",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Museum of Anthropology at UBC, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2594409,
+          49.2695015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Britannia Mine Museum",
+        "type": "poi", 
+        "city": "Britannia Beach",
+        "query": "Britannia Mine Museum, Britannia Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2045259,
+          49.6237409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Butchart Gardens",
+        "type": "poi", 
+        "city": "Victoria",
+        "query": "Butchart Gardens, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3656444,
+          48.4284207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal BC Museum",
+        "type": "poi", 
+        "city": "Victoria",
+        "query": "Royal BC Museum, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3674497,
+          48.4198111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Craigdarroch Castle",
+        "type": "poi", 
+        "city": "Victoria",
+        "query": "Craigdarroch Castle, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3437226,
+          48.4226294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beacon Hill Park",
+        "type": "poi", 
+        "city": "Victoria",
+        "query": "Beacon Hill Park, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3627778,
+          48.4122222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Harbour",
+        "type": "poi", 
+        "city": "Victoria",
+        "query": "Victoria Harbour, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.383901,
+          48.4227602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miniature World",
+        "type": "poi", 
+        "city": "Victoria",
+        "query": "Miniature World, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3669183,
+          48.4223763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogden Point",
+        "type": "poi", 
+        "city": "Victoria",
+        "query": "Ogden Point, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3840789,
+          48.4151178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Rim National Park Reserve",
+        "type": "poi", 
+        "city": "Tofino",
+        "query": "Pacific Rim National Park Reserve, Tofino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.9066184,
+          49.1529842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hot Springs Cove",
+        "type": "poi", 
+        "city": "Tofino",
+        "query": "Hot Springs Cove, Tofino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.9066184,
+          49.1529842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whistler Blackcomb",
+        "type": "poi", 
+        "city": "Whistler",
+        "query": "Whistler Blackcomb, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9486474,
+          50.1149639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lost Lake Park",
+        "type": "poi", 
+        "city": "Whistler",
+        "query": "Lost Lake Park, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93534,
+          50.126285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Audain Art Museum",
+        "type": "poi", 
+        "city": "Whistler",
+        "query": "Audain Art Museum, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9530516,
+          50.1178788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BC Place Stadium",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "BC Place Stadium, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.111999,
+          49.27675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver Lookout",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Vancouver Lookout, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1122284,
+          49.2849182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kootenay National Park",
+        "type": "poi", 
+        "city": "Radium Hot Springs",
+        "query": "Kootenay National Park, Radium Hot Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0691955,
+          50.6195659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Robson",
+        "type": "poi", 
+        "city": "Valemount",
+        "query": "Mount Robson, Valemount"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.264311,
+          52.83122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulf Islands National Park Reserve",
+        "type": "poi", 
+        "city": "Gulf Islands",
+        "query": "Gulf Islands National Park Reserve, Gulf Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1622203,
+          48.7861101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franconia Sculpture Park",
+        "type": "poi", 
+        "city": "West Vancouver",
+        "query": "Franconia Sculpture Park, West Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1601981,
+          49.3286251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lighthouse Park",
+        "type": "poi", 
+        "city": "West Vancouver",
+        "query": "Lighthouse Park, West Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2635862,
+          49.3316371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deep Cove Lookout",
+        "type": "poi", 
+        "city": "Deep Cove",
+        "query": "Deep Cove Lookout, Deep Cove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.951994,
+          49.326817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lynn Canyon Park",
+        "type": "poi", 
+        "city": "North Vancouver",
+        "query": "Lynn Canyon Park, North Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0181098,
+          49.3439047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VanDusen Botanical Garden",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "VanDusen Botanical Garden, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1325405,
+          49.239569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr. Sun Yat-Sen Classical Chinese Garden",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Dr. Sun Yat-Sen Classical Chinese Garden, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1040923,
+          49.2797853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vancouver Maritime Museum",
+        "type": "poi", 
+        "city": "Vancouver",
+        "query": "Vancouver Maritime Museum, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.147183,
+          49.277517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richmond Olympic Oval",
+        "type": "poi", 
+        "city": "Richmond",
+        "query": "Richmond Olympic Oval, Richmond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1516981,
+          49.1747141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff National Park",
+        "type": "poi", 
+        "city": "Banff",
+        "query": "Banff National Park, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5707903,
+          51.1784304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Louise",
+        "type": "poi", 
+        "city": "Lake Louise",
+        "query": "Lake Louise, Lake Louise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1772552,
+          51.4253705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moraine Lake",
+        "type": "poi", 
+        "city": "Lake Louise",
+        "query": "Moraine Lake, Lake Louise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1860049,
+          51.3217416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasper National Park",
+        "type": "poi", 
+        "city": "Jasper",
+        "query": "Jasper National Park, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0822838,
+          52.8732899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maligne Lake",
+        "type": "poi", 
+        "city": "Jasper",
+        "query": "Maligne Lake, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0822838,
+          52.8732899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Columbia Icefield",
+        "type": "poi", 
+        "city": "Jasper",
+        "query": "Columbia Icefield, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0822838,
+          52.8732899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calgary Tower",
+        "type": "poi", 
+        "city": "Calgary",
+        "query": "Calgary Tower, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0630914,
+          51.044308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calgary Zoo",
+        "type": "poi", 
+        "city": "Calgary",
+        "query": "Calgary Zoo, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0236738,
+          51.0459004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heritage Park Historical Village",
+        "type": "poi", 
+        "city": "Calgary",
+        "query": "Heritage Park Historical Village, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1009544,
+          50.9824547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Calgary",
+        "type": "poi", 
+        "city": "Calgary",
+        "query": "Fort Calgary, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.04403,
+          51.044625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telus Spark",
+        "type": "poi", 
+        "city": "Calgary",
+        "query": "Telus Spark, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0244445,
+          51.0538889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenbow Museum",
+        "type": "poi", 
+        "city": "Calgary",
+        "query": "Glenbow Museum, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0611335,
+          51.0449777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Edmonton Mall",
+        "type": "poi", 
+        "city": "Edmonton",
+        "query": "West Edmonton Mall, Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6227415,
+          53.5230471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Edmonton Park",
+        "type": "poi", 
+        "city": "Edmonton",
+        "query": "Fort Edmonton Park, Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5729529,
+          53.503092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Alberta Museum",
+        "type": "poi", 
+        "city": "Edmonton",
+        "query": "Royal Alberta Museum, Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4892097,
+          53.5467631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elk Island National Park",
+        "type": "poi", 
+        "city": "Fort Saskatchewan",
+        "query": "Elk Island National Park, Fort Saskatchewan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8872697,
+          53.6099483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Head-Smashed-In Buffalo Jump",
+        "type": "poi", 
+        "city": "Fort Macleod",
+        "query": "Head-Smashed-In Buffalo Jump, Fort Macleod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4030896,
+          49.7223893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort McMurray Oil Sands Interpretive Centre",
+        "type": "poi", 
+        "city": "Fort McMurray",
+        "query": "Fort McMurray Oil Sands Interpretive Centre, Fort McMurray"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3821289,
+          56.7381029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Tyrrell Museum",
+        "type": "poi", 
+        "city": "Drumheller",
+        "query": "Royal Tyrrell Museum, Drumheller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7901466,
+          51.4792097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drumheller Hoodoos",
+        "type": "poi", 
+        "city": "Drumheller",
+        "query": "Drumheller Hoodoos, Drumheller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.7106587,
+          51.4619438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Forks",
+        "type": "poi", 
+        "city": "Winnipeg",
+        "query": "The Forks, Winnipeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1299378,
+          49.8909396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canadian Museum for Human Rights",
+        "type": "poi", 
+        "city": "Winnipeg",
+        "query": "Canadian Museum for Human Rights, Winnipeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1309509,
+          49.8907982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Assiniboine Park",
+        "type": "poi", 
+        "city": "Winnipeg",
+        "query": "Assiniboine Park, Winnipeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2456588,
+          49.8618731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winnipeg Art Gallery",
+        "type": "poi", 
+        "city": "Winnipeg",
+        "query": "Winnipeg Art Gallery, Winnipeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1505908,
+          49.8894348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Canadian Mint",
+        "type": "poi", 
+        "city": "Winnipeg",
+        "query": "Royal Canadian Mint, Winnipeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0542059,
+          49.8527793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Exchange District",
+        "type": "poi", 
+        "city": "Winnipeg",
+        "query": "Exchange District, Winnipeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1372174,
+          49.8975695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Fort Garry",
+        "type": "poi", 
+        "city": "St. Andrews",
+        "query": "Lower Fort Garry, St. Andrews"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7967214,
+          56.3397753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Boniface",
+        "type": "poi", 
+        "city": "Winnipeg",
+        "query": "St. Boniface, Winnipeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.078334,
+          49.861005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanuskewin Heritage Park",
+        "type": "poi", 
+        "city": "Saskatoon",
+        "query": "Wanuskewin Heritage Park, Saskatoon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5963917,
+          52.2241603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Saskatchewan Museum",
+        "type": "poi", 
+        "city": "Regina",
+        "query": "Royal Saskatchewan Museum, Regina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.616551,
+          50.43979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wascana Centre",
+        "type": "poi", 
+        "city": "Regina",
+        "query": "Wascana Centre, Regina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6068164,
+          50.4325213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Saskatchewan",
+        "type": "poi", 
+        "city": "Saskatoon",
+        "query": "University of Saskatchewan, Saskatoon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.622821,
+          52.1266005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bateman Historical Museum",
+        "type": "poi", 
+        "city": "Regina",
+        "query": "Bateman Historical Museum, Regina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6188944,
+          50.4452112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halifax Citadel National Historic Site",
+        "type": "poi", 
+        "city": "Halifax",
+        "query": "Halifax Citadel National Historic Site, Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5796045,
+          44.6474888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peggy's Cove Lighthouse",
+        "type": "poi", 
+        "city": "Peggy's Cove",
+        "query": "Peggy's Cove Lighthouse, Peggy's Cove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.9186569,
+          44.4917449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maritime Museum of the Atlantic",
+        "type": "poi", 
+        "city": "Halifax",
+        "query": "Maritime Museum of the Atlantic, Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5706727,
+          44.6474648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halifax Waterfront",
+        "type": "poi", 
+        "city": "Halifax",
+        "query": "Halifax Waterfront, Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.571623,
+          44.6493861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexander Keith's Brewery",
+        "type": "poi", 
+        "city": "Halifax",
+        "query": "Alexander Keith's Brewery, Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5701195,
+          44.6444709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Breton Highlands National Park",
+        "type": "poi", 
+        "city": "Ingonish",
+        "query": "Cape Breton Highlands National Park, Ingonish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.403964,
+          46.64083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cabot Trail",
+        "type": "poi", 
+        "city": "Baddeck",
+        "query": "Cabot Trail, Baddeck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.573822,
+          46.3500708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortress of Louisbourg",
+        "type": "poi", 
+        "city": "Louisbourg",
+        "query": "Fortress of Louisbourg, Louisbourg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9854875,
+          45.8922149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point Pleasant Park",
+        "type": "poi", 
+        "city": "Halifax",
+        "query": "Point Pleasant Park, Halifax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5667942,
+          44.6277351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lunenburg Waterfront",
+        "type": "poi", 
+        "city": "Lunenburg",
+        "query": "Lunenburg Waterfront, Lunenburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3087688,
+          44.3757131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reversing Falls",
+        "type": "poi", 
+        "city": "Saint John",
+        "query": "Reversing Falls, Saint John"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0900921,
+          45.2602151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magnetic Hill",
+        "type": "poi", 
+        "city": "Moncton",
+        "query": "Magnetic Hill, Moncton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.888516,
+          46.134658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hopewell Rocks",
+        "type": "poi", 
+        "city": "Hopewell Cape",
+        "query": "Hopewell Rocks, Hopewell Cape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5784566,
+          45.8171452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fundy National Park",
+        "type": "poi", 
+        "city": "Alma",
+        "query": "Fundy National Park, Alma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.031631,
+          45.6137768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kings Landing Historical Settlement",
+        "type": "poi", 
+        "city": "Durham Bridge",
+        "query": "Kings Landing Historical Settlement, Durham Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.9782552,
+          45.8770503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Brunswick Museum",
+        "type": "poi", 
+        "city": "Saint John",
+        "query": "New Brunswick Museum, Saint John"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0822897,
+          45.2689616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old City Market",
+        "type": "poi", 
+        "city": "Fredericton",
+        "query": "Old City Market, Fredericton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6431151,
+          45.9635895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Green Gables House",
+        "type": "poi", 
+        "city": "Cavendish",
+        "query": "Green Gables House, Cavendish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.3820652,
+          46.4878487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince Edward Island National Park",
+        "type": "poi", 
+        "city": "Cavendish",
+        "query": "Prince Edward Island National Park, Cavendish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1739467,
+          46.4264574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlottetown Historic District",
+        "type": "poi", 
+        "city": "Charlottetown",
+        "query": "Charlottetown Historic District, Charlottetown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1310704,
+          46.23824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Confederation Centre of the Arts",
+        "type": "poi", 
+        "city": "Charlottetown",
+        "query": "Confederation Centre of the Arts, Charlottetown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1268739,
+          46.2348751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Park",
+        "type": "poi", 
+        "city": "Charlottetown",
+        "query": "Victoria Park, Charlottetown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1406457,
+          46.2292321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gros Morne National Park",
+        "type": "poi", 
+        "city": "Rocky Harbour",
+        "query": "Gros Morne National Park, Rocky Harbour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9272276,
+          49.5862765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Signal Hill",
+        "type": "poi", 
+        "city": "St. John's",
+        "query": "Signal Hill, St. John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6891551,
+          47.5720611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Spear",
+        "type": "poi", 
+        "city": "St. John's",
+        "query": "Cape Spear, St. John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6333333,
+          47.5166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rooms",
+        "type": "poi", 
+        "city": "St. John's",
+        "query": "The Rooms, St. John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7119751,
+          47.5660616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Anse aux Meadows",
+        "type": "poi", 
+        "city": "L'Anse aux Meadows",
+        "query": "L'Anse aux Meadows, L'Anse aux Meadows"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5328473,
+          51.5922292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quidi Vidi",
+        "type": "poi", 
+        "city": "St. John's",
+        "query": "Quidi Vidi, St. John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.6808131,
+          47.5805485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Street",
+        "type": "poi", 
+        "city": "St. John's",
+        "query": "Water Street, St. John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.711012,
+          47.5603128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cape Bonavista Lighthouse",
+        "type": "poi", 
+        "city": "Bonavista",
+        "query": "Cape Bonavista Lighthouse, Bonavista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.0857196,
+          48.7014473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kluane National Park and Reserve",
+        "type": "poi", 
+        "city": "Haines Junction",
+        "query": "Kluane National Park and Reserve, Haines Junction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.5156262,
+          60.7626831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miles Canyon",
+        "type": "poi", 
+        "city": "Whitehorse",
+        "query": "Miles Canyon, Whitehorse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.0293702,
+          60.6614738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yukon Beringia Interpretive Centre",
+        "type": "poi", 
+        "city": "Whitehorse",
+        "query": "Yukon Beringia Interpretive Centre, Whitehorse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.0793162,
+          60.7089565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whitehorse Fish Ladder",
+        "type": "poi", 
+        "city": "Whitehorse",
+        "query": "Whitehorse Fish Ladder, Whitehorse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.0405823,
+          60.6966055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takhini Hot Pools",
+        "type": "poi", 
+        "city": "Whitehorse",
+        "query": "Takhini Hot Pools, Whitehorse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.3591724,
+          60.8789291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nahanni National Park Reserve",
+        "type": "poi", 
+        "city": "Nahanni",
+        "query": "Nahanni National Park Reserve, Nahanni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5004694,
+          61.5006973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince of Wales Northern Heritage Centre",
+        "type": "poi", 
+        "city": "Yellowknife",
+        "query": "Prince of Wales Northern Heritage Centre, Yellowknife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3799714,
+          62.4562195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Town Yellowknife",
+        "type": "poi", 
+        "city": "Yellowknife",
+        "query": "Old Town Yellowknife, Yellowknife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3503564,
+          62.4637276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Great Slave Lake",
+        "type": "poi", 
+        "city": "Hay River",
+        "query": "Great Slave Lake, Hay River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7901243,
+          60.8109141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nunatta Sunakkutaangit Museum",
+        "type": "poi", 
+        "city": "Iqaluit",
+        "query": "Nunatta Sunakkutaangit Museum, Iqaluit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5137717,
+          63.7435177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sirmilik National Park",
+        "type": "poi", 
+        "city": "Pond Inlet",
+        "query": "Sirmilik National Park, Pond Inlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9585316,
+          72.7001169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iqaluit Downtown",
+        "type": "poi", 
+        "city": "Iqaluit",
+        "query": "Iqaluit Downtown, Iqaluit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5169669,
+          63.746693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arctic Winter Games Park",
+        "type": "poi", 
+        "city": "Iqaluit",
+        "query": "Arctic Winter Games Park, Iqaluit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5169669,
+          63.746693
+        ]
+      }
+    }
+  ]
+}

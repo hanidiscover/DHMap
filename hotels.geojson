@@ -1,0 +1,5495 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Azur Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Azur Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1163804,
+          49.2857792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Horizon Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Blue Horizon Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1274033,
+          49.2864347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Coal Harbour Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Coast Coal Harbour Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.122343,
+          49.288401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Hotel Vancouver","icon": "📍",
+        "city": "Vancouver",
+        "query": "Fairmont Hotel Vancouver, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1211176,
+          49.2837112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Pacific Rim","icon": "📍",
+        "city": "Vancouver",
+        "query": "Fairmont Pacific Rim, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1166888,
+          49.288234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Waterfront","icon": "📍",
+        "city": "Vancouver",
+        "query": "Fairmont Waterfront, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113901,
+          49.286958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georgian Court Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Georgian Court Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1135832,
+          49.2782567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Vancouver Downtown","icon": "📍",
+        "city": "Vancouver",
+        "query": "Holiday Inn Vancouver Downtown, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1256676,
+          49.2784237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L’Hermitage Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "L’Hermitage Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.116879,
+          49.2803641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loden Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Loden Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1232789,
+          49.2875667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opus Hotel Vancouver","icon": "📍",
+        "city": "Vancouver",
+        "query": "Opus Hotel Vancouver, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1226017,
+          49.2746032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pan Pacific Vancouver","icon": "📍",
+        "city": "Vancouver",
+        "query": "Pan Pacific Vancouver, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1134453,
+          49.2878274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paradox Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Paradox Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1241038,
+          49.2867854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinnacle Hotel Harbour Front","icon": "📍",
+        "city": "Vancouver",
+        "query": "Pinnacle Hotel Harbour Front, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1204937,
+          49.288329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosedale on Robson Suite Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Rosedale on Robson Suite Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1163019,
+          49.278416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Vancouver City Centre","icon": "📍",
+        "city": "Vancouver",
+        "query": "Sandman Hotel Vancouver City Centre, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1130907,
+          49.2788916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Suites on Davie","icon": "📍",
+        "city": "Vancouver",
+        "query": "Sandman Suites on Davie, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1327804,
+          49.2810568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shangri-La Vancouver","icon": "📍",
+        "city": "Vancouver",
+        "query": "Shangri-La Vancouver, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1237034,
+          49.2857863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheraton Wall Centre Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Sheraton Wall Centre Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1270637,
+          49.280153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutton Place Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Sutton Place Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1207375,
+          49.2827291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Times Square Suites Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Times Square Suites Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1355229,
+          49.2918307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wedgewood Hotel","icon": "📍",
+        "city": "Vancouver",
+        "query": "Wedgewood Hotel, Vancouver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.122663,
+          49.282234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fraser River Fishing Lodge","icon": "📍",
+        "city": "Agassiz",
+        "query": "Fraser River Fishing Lodge, Agassiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.761715,
+          49.2357976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundance Guest Ranch","icon": "📍",
+        "city": "Ashcroft",
+        "query": "Sundance Guest Ranch, Ashcroft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.276156,
+          50.662844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bella Coola Mountain Lodge","icon": "📍",
+        "city": "Bella Coola",
+        "query": "Bella Coola Mountain Lodge, Bella Coola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.5482482,
+          52.3915214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mike Wiegele Lodge","icon": "📍",
+        "city": "Blue River",
+        "query": "Mike Wiegele Lodge, Blue River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.3036844,
+          52.1130749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn Cache Creek","icon": "📍",
+        "city": "Cache Creek",
+        "query": "Sandman Inn Cache Creek, Cache Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3262339,
+          50.8063158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Discovery Inn & Marina","icon": "📍",
+        "city": "Campbell River",
+        "query": "Coast Discovery Inn & Marina, Campbell River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.241975,
+          50.026402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comfort Inn & Suites Campbell River","icon": "📍",
+        "city": "Campbell River",
+        "query": "Comfort Inn & Suites Campbell River, Campbell River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.2444812,
+          50.0287185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naturally Pacific Resort","icon": "📍",
+        "city": "Campbell River",
+        "query": "Naturally Pacific Resort, Campbell River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.267038,
+          50.0196036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alpine Meadows Resort","icon": "📍",
+        "city": "Clearwater",
+        "query": "Alpine Meadows Resort, Clearwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7958948,
+          27.9655722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Plus Gateway to the Falls","icon": "📍",
+        "city": "Clearwater",
+        "query": "Best Western Plus Gateway to the Falls, Clearwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0440821,
+          51.6514125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helmcken Falls Lodge","icon": "📍",
+        "city": "Clearwater",
+        "query": "Helmcken Falls Lodge, Clearwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7958948,
+          27.9655722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quality Inn & Suites","icon": "📍",
+        "city": "Clearwater",
+        "query": "Quality Inn & Suites, Clearwater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0421037,
+          51.6515652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Rocky Mountain Resort","icon": "📍",
+        "city": "Cranbrook",
+        "query": "Prestige Rocky Mountain Resort, Cranbrook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7785298,
+          49.508375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn Cranbrook","icon": "📍",
+        "city": "Cranbrook",
+        "query": "Sandman Inn Cranbrook, Cranbrook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7694002,
+          49.5129678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old House Hotel & Spa","icon": "📍",
+        "city": "Courtenay",
+        "query": "Old House Hotel & Spa, Courtenay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9888889,
+          49.6847222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Coast Wilderness Lodge","icon": "📍",
+        "city": "Egmont",
+        "query": "West Coast Wilderness Lodge, Egmont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9376243,
+          49.755904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathedral Mountain Lodge","icon": "📍",
+        "city": "Field",
+        "query": "Cathedral Mountain Lodge, Field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4357551,
+          51.4226234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emerald Lake Lodge","icon": "📍",
+        "city": "Field",
+        "query": "Emerald Lake Lodge, Field"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.5385665,
+          51.4399223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyax Lodge & Heliskiing","icon": "📍",
+        "city": "Gold Bridge",
+        "query": "Tyax Lodge & Heliskiing, Gold Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7729034,
+          50.9517937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Mountainview Inn","icon": "📍",
+        "city": "Golden",
+        "query": "Best Western Mountainview Inn, Golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9727533,
+          51.3110044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Inn Golden","icon": "📍",
+        "city": "Golden",
+        "query": "Prestige Inn Golden, Golden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9719054,
+          51.3112747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrison Hot Springs Resort & Spa","icon": "📍",
+        "city": "Harrison Hot Springs",
+        "query": "Harrison Hot Springs Resort & Spa, Harrison Hot Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7897531,
+          49.3036798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockwater Secret Cove Resort","icon": "📍",
+        "city": "Halfmoon Bay",
+        "query": "Rockwater Secret Cove Resort, Halfmoon Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.9787683,
+          49.5406785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Copper Point Resort","icon": "📍",
+        "city": "Invermere",
+        "query": "Copper Point Resort, Invermere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9933333,
+          50.5119444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac Le Jeune Resort","icon": "📍",
+        "city": "Kamloops",
+        "query": "Lac Le Jeune Resort, Kamloops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.4465011,
+          50.6347317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn & Suites Kamloops","icon": "📍",
+        "city": "Kamloops",
+        "query": "Sandman Inn & Suites Kamloops, Kamloops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3272674,
+          50.674522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Kamloops","icon": "📍",
+        "city": "Kamloops",
+        "query": "Sandman Signature Kamloops, Kamloops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3364875,
+          50.6774957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Thompson Inn","icon": "📍",
+        "city": "Kamloops",
+        "query": "South Thompson Inn, Kamloops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3272674,
+          50.674522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Plaza Hotel","icon": "📍",
+        "city": "Kamloops",
+        "query": "The Plaza Hotel, Kamloops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.331732,
+          50.675747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Thompson Hotel & Conference Centre","icon": "📍",
+        "city": "Kamloops",
+        "query": "The Thompson Hotel & Conference Centre, Kamloops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.325566,
+          50.676102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Zed Kelowna","icon": "📍",
+        "city": "Kelowna",
+        "query": "Hotel Zed Kelowna, Kelowna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4990259,
+          49.8848218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Beach House","icon": "📍",
+        "city": "Kelowna",
+        "query": "Prestige Beach House, Kelowna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.49863,
+          49.8839299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramada Hotel & Conference Centre","icon": "📍",
+        "city": "Kelowna",
+        "query": "Ramada Hotel & Conference Centre, Kelowna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4380524,
+          49.882281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Kelowna","icon": "📍",
+        "city": "Kelowna",
+        "query": "Sandman Hotel Kelowna, Kelowna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4404325,
+          49.8825986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Royal Kelowna","icon": "📍",
+        "city": "Kelowna",
+        "query": "The Royal Kelowna, Kelowna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4984359,
+          49.8921122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ten-ee-ah Lodge","icon": "📍",
+        "city": "Lac La Hache",
+        "query": "Ten-ee-ah Lodge, Lac La Hache"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4515457,
+          52.0090942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn McBride","icon": "📍",
+        "city": "McBride",
+        "query": "Sandman Inn McBride, McBride"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.168461,
+          53.301347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manning Park Resort","icon": "📍",
+        "city": "Manning Park",
+        "query": "Manning Park Resort, Manning Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7869997,
+          49.0636051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Bastion Hotel","icon": "📍",
+        "city": "Nanaimo",
+        "query": "Coast Bastion Hotel, Nanaimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.936063,
+          49.166622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Lakeside Resort Nelson","icon": "📍",
+        "city": "Nelson",
+        "query": "Prestige Lakeside Resort Nelson, Nelson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2941686,
+          49.4973163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Oliver Hotel","icon": "📍",
+        "city": "Oliver",
+        "query": "Coast Oliver Hotel, Oliver"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.549103,
+          49.183722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bayside Oceanfront Resort","icon": "📍",
+        "city": "Parksville",
+        "query": "The Bayside Oceanfront Resort, Parksville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3136412,
+          49.3193375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Beach Club Resort","icon": "📍",
+        "city": "Parksville",
+        "query": "The Beach Club Resort, Parksville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.3154053,
+          49.3225281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Parksville Hotel","icon": "📍",
+        "city": "Parksville",
+        "query": "Coast Parksville Hotel, Parksville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.32298,
+          49.322827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tigh-Na-Mara Seaside Spa Resort","icon": "📍",
+        "city": "Parksville",
+        "query": "Tigh-Na-Mara Seaside Spa Resort, Parksville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2642281,
+          49.3106013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penticton Lakeside Resort","icon": "📍",
+        "city": "Penticton",
+        "query": "Penticton Lakeside Resort, Penticton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5946991,
+          49.5031301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Penticton","icon": "📍",
+        "city": "Penticton",
+        "query": "Sandman Hotel Penticton, Penticton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6086322,
+          49.4980305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Lyon Inn & Suites","icon": "📍",
+        "city": "Port Hardy",
+        "query": "Glen Lyon Inn & Suites, Port Hardy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.4902816,
+          50.7111723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kwa’Lilas Hotel","icon": "📍",
+        "city": "Port Hardy",
+        "query": "Kwa’Lilas Hotel, Port Hardy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.5007984,
+          50.7215806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wild Renfrew Seaside Cottages","icon": "📍",
+        "city": "Port Renfrew",
+        "query": "Wild Renfrew Seaside Cottages, Port Renfrew"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.4216875,
+          48.5542132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ramada Plaza Prince George","icon": "📍",
+        "city": "Prince George",
+        "query": "Ramada Plaza Prince George, Prince George"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7430484,
+          53.9147966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel & Suites Prince George","icon": "📍",
+        "city": "Prince George",
+        "query": "Sandman Hotel & Suites Prince George, Prince George"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7803233,
+          53.9082495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Prince George","icon": "📍",
+        "city": "Prince George",
+        "query": "Sandman Signature Prince George, Prince George"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7697864,
+          53.8918238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Treasure Cove Prince George","icon": "📍",
+        "city": "Prince George",
+        "query": "Prestige Treasure Cove Prince George, Prince George"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.762834,
+          53.8949265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crest Hotel","icon": "📍",
+        "city": "Prince Rupert",
+        "query": "Crest Hotel, Prince Rupert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.3252423,
+          54.3161225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Oceanview Hotel Prince Rupert","icon": "📍",
+        "city": "Prince Rupert",
+        "query": "Prestige Oceanview Hotel Prince Rupert, Prince Rupert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.3292506,
+          54.3116057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn Princeton","icon": "📍",
+        "city": "Princeton",
+        "query": "Sandman Inn Princeton, Princeton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5264638,
+          49.4525511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Quesnel","icon": "📍",
+        "city": "Quesnel",
+        "query": "Sandman Hotel Quesnel, Quesnel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4423226,
+          52.963728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Radium Hot Springs Resort","icon": "📍",
+        "city": "Radium Hot Springs",
+        "query": "Prestige Radium Hot Springs Resort, Radium Hot Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.0730895,
+          50.621746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basecamp Resorts Revelstoke","icon": "📍",
+        "city": "Revelstoke",
+        "query": "Basecamp Resorts Revelstoke, Revelstoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.213341,
+          51.0220938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Hillcrest Hotel","icon": "📍",
+        "city": "Revelstoke",
+        "query": "Coast Hillcrest Hotel, Revelstoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.163015,
+          50.995235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glacier House Resort","icon": "📍",
+        "city": "Revelstoke",
+        "query": "Glacier House Resort, Revelstoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2165307,
+          51.0491541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Revelstoke","icon": "📍",
+        "city": "Revelstoke",
+        "query": "Sandman Hotel Revelstoke, Revelstoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2180287,
+          51.0101023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutton Place Hotel Revelstoke Mountain Resort","icon": "📍",
+        "city": "Revelstoke",
+        "query": "Sutton Place Hotel Revelstoke Mountain Resort, Revelstoke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1637083,
+          50.9580673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Mountain Resort","icon": "📍",
+        "city": "Rossland",
+        "query": "Prestige Mountain Resort, Rossland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8011341,
+          49.0766527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Harbourfront Resort","icon": "📍",
+        "city": "Salmon Arm",
+        "query": "Prestige Harbourfront Resort, Salmon Arm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.283279,
+          50.705006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbour House Hotel","icon": "📍",
+        "city": "Salt Spring Island",
+        "query": "Harbour House Hotel, Salt Spring Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.502546,
+          48.85906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Hudson Bay Lodge","icon": "📍",
+        "city": "Smithers",
+        "query": "Prestige Hudson Bay Lodge, Smithers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.1562942,
+          54.7740136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn Smithers","icon": "📍",
+        "city": "Smithers",
+        "query": "Sandman Inn Smithers, Smithers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.1684596,
+          54.7842467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonora Resort","icon": "📍",
+        "city": "Sonora Island",
+        "query": "Sonora Resort, Sonora Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.1582615,
+          50.386398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Oceanfront Resort","icon": "📍",
+        "city": "Sooke",
+        "query": "Prestige Oceanfront Resort, Sooke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7301413,
+          48.3673512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Squamish","icon": "📍",
+        "city": "Squamish",
+        "query": "Sandman Hotel Squamish, Squamish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1496279,
+          49.7254857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundance Lodge (Formerly Coast)","icon": "📍",
+        "city": "Sun Peaks Resort",
+        "query": "Sundance Lodge (Formerly Coast), Sun Peaks Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.884662,
+          50.884478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Peaks Grand Hotel & Conference Centre","icon": "📍",
+        "city": "Sun Peaks Resort",
+        "query": "Sun Peaks Grand Hotel & Conference Centre, Sun Peaks Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8834888,
+          50.8848496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Peaks Lodge","icon": "📍",
+        "city": "Sun Peaks Resort",
+        "query": "Sun Peaks Lodge, Sun Peaks Resort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8828256,
+          50.8842366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telegraph Cove Resort","icon": "📍",
+        "city": "Telegraph Cove",
+        "query": "Telegraph Cove Resort, Telegraph Cove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.834025,
+          50.5452248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn Terrace","icon": "📍",
+        "city": "Terrace",
+        "query": "Sandman Inn Terrace, Terrace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.602878,
+          54.5162585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Zed Tofino","icon": "📍",
+        "city": "Tofino",
+        "query": "Hotel Zed Tofino, Tofino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.888721,
+          49.1218257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Beach Lodge Resort","icon": "📍",
+        "city": "Tofino",
+        "query": "Long Beach Lodge Resort, Tofino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.8723559,
+          49.1048193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pacific Sands Beach Resort","icon": "📍",
+        "city": "Tofino",
+        "query": "Pacific Sands Beach Resort, Tofino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.8729171,
+          49.1066474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tofino Resort & Marina","icon": "📍",
+        "city": "Tofino",
+        "query": "Tofino Resort & Marina, Tofino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.8955574,
+          49.1498127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wickaninnish Inn","icon": "📍",
+        "city": "Tofino",
+        "query": "Wickaninnish Inn, Tofino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.901604,
+          49.1229377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Black Rock Oceanfront Resort","icon": "📍",
+        "city": "Ucluelet",
+        "query": "Black Rock Oceanfront Resort, Ucluelet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5561804,
+          48.9370186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water’s Edge Shoreside Suites","icon": "📍",
+        "city": "Ucluelet",
+        "query": "Water’s Edge Shoreside Suites, Ucluelet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.5537333,
+          48.9475583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Vancouver Airport","icon": "📍",
+        "city": "Vancouver Airport",
+        "query": "Fairmont Vancouver Airport, Vancouver Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1759664,
+          49.1949473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Vancouver Airport","icon": "📍",
+        "city": "Vancouver Airport",
+        "query": "Sandman Hotel Vancouver Airport, Vancouver Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1144368,
+          49.1913849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Vancouver Airport Hotel & Resort","icon": "📍",
+        "city": "Vancouver Airport",
+        "query": "Sandman Signature Vancouver Airport Hotel & Resort, Vancouver Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.110077,
+          49.1873027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aava Whistler","icon": "📍",
+        "city": "Whistler",
+        "query": "Aava Whistler, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9586311,
+          50.113716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abigail's Hotel","icon": "📍",
+        "city": "Victoria",
+        "query": "Abigail's Hotel, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3598561,
+          48.4210127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chateau Victoria","icon": "📍",
+        "city": "Victoria",
+        "query": "Chateau Victoria, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3644953,
+          48.4221056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Victoria Hotel & Marina by APA","icon": "📍",
+        "city": "Victoria",
+        "query": "Coast Victoria Hotel & Marina by APA, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.379715,
+          48.422256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta Whistler Village Suites","icon": "📍",
+        "city": "Whistler",
+        "query": "Delta Whistler Village Suites, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9561797,
+          50.1169693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doubletree by Hilton Hotel & Suites Victoria","icon": "📍",
+        "city": "Victoria",
+        "query": "Doubletree by Hilton Hotel & Suites Victoria, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3652049,
+          48.4218247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Chateau Whistler","icon": "📍",
+        "city": "Whistler",
+        "query": "Fairmont Chateau Whistler, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9462133,
+          50.116647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Empress Hotel","icon": "📍",
+        "city": "Victoria",
+        "query": "Fairmont Empress Hotel, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3678489,
+          48.421721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilton Whistler Resort","icon": "📍",
+        "city": "Whistler",
+        "query": "Hilton Whistler Resort, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9560389,
+          50.1126449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Grand Pacific","icon": "📍",
+        "city": "Victoria",
+        "query": "Hotel Grand Pacific, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3725,
+          48.4205556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Zed Victoria","icon": "📍",
+        "city": "Victoria",
+        "query": "Hotel Zed Victoria, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3717075,
+          48.4460575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inn at Laurel Point","icon": "📍",
+        "city": "Victoria",
+        "query": "Inn at Laurel Point, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3764257,
+          48.4234981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Listel Whistler Hotel","icon": "📍",
+        "city": "Whistler",
+        "query": "Listel Whistler Hotel, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9568278,
+          50.1136944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nita Lake Lodge","icon": "📍",
+        "city": "Whistler",
+        "query": "Nita Lake Lodge, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9958333,
+          50.0963889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oak Bay Beach Hotel","icon": "📍",
+        "city": "Victoria",
+        "query": "Oak Bay Beach Hotel, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2994611,
+          48.4199482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Hotel Vernon","icon": "📍",
+        "city": "Vernon",
+        "query": "Prestige Hotel Vernon, Vernon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2737938,
+          50.2778772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prestige Vernon Lodge & Conference Centre","icon": "📍",
+        "city": "Vernon",
+        "query": "Prestige Vernon Lodge & Conference Centre, Vernon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2747339,
+          50.2714629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Vernon","icon": "📍",
+        "city": "Vernon",
+        "query": "Sandman Hotel Vernon, Vernon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2720107,
+          50.2670137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Victoria","icon": "📍",
+        "city": "Victoria",
+        "query": "Sandman Hotel Victoria, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3684379,
+          48.4395951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Williams Lake","icon": "📍",
+        "city": "Williams Lake",
+        "query": "Sandman Hotel Williams Lake, Williams Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1366718,
+          52.1288091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn Abbotsford","icon": "📍",
+        "city": "Greater Vancouver - Abbotsford",
+        "query": "Sandman Inn Abbotsford, Greater Vancouver - Abbotsford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3044697,
+          49.0504377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Langley","icon": "📍",
+        "city": "Greater Vancouver - Langley",
+        "query": "Sandman Signature Langley, Greater Vancouver - Langley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6656074,
+          49.1627052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Suites Surrey (Guildford)","icon": "📍",
+        "city": "Greater Vancouver - Surrey",
+        "query": "Sandman Suites Surrey (Guildford), Greater Vancouver - Surrey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8015083,
+          49.1952483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Summit Lodge Boutique Hotel","icon": "📍",
+        "city": "Whistler",
+        "query": "Summit Lodge Boutique Hotel, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9568232,
+          50.1184703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Oswego Hotel","icon": "📍",
+        "city": "Victoria",
+        "query": "The Oswego Hotel, Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3759507,
+          48.4207314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Westin Resort & Spa Whistler","icon": "📍",
+        "city": "Whistler",
+        "query": "The Westin Resort & Spa Whistler, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9561144,
+          50.1121574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whistler Pinnacle Hotel","icon": "📍",
+        "city": "Whistler",
+        "query": "Whistler Pinnacle Hotel, Whistler"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9572694,
+          50.1174258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whistler Village Inn & Suites","icon": "📍",
+        "city": "Williams Lake",
+        "query": "Whistler Village Inn & Suites, Williams Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1416885,
+          52.1416736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALT Hotel Halifax Airport","icon": "📍",
+        "city": "Halifax Airport, NS",
+        "query": "ALT Hotel Halifax Airport, Halifax Airport, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5162562,
+          44.8859483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ALT Hotel Toronto Airport","icon": "📍",
+        "city": "Toronto Airport",
+        "query": "ALT Hotel Toronto Airport, Toronto Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6147422,
+          43.6897919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acclaim Hotel Calgary Airport","icon": "📍",
+        "city": "Calgary Airport",
+        "query": "Acclaim Hotel Calgary Airport, Calgary Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9996794,
+          51.1504074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt Hotel Calgary East Village","icon": "📍",
+        "city": "Calgary",
+        "query": "Alt Hotel Calgary East Village, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0492986,
+          51.0473428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt Hotel Montreal","icon": "📍",
+        "city": "Montreal",
+        "query": "Alt Hotel Montreal, Montreal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5572094,
+          45.4930735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt Hotel Ottawa","icon": "📍",
+        "city": "Ottawa",
+        "query": "Alt Hotel Ottawa, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6990338,
+          45.4199505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt Hotel Quebec","icon": "📍",
+        "city": "Quebec City",
+        "query": "Alt Hotel Quebec, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2874293,
+          46.7686403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt Hotel St John's","icon": "📍",
+        "city": "St John's, NL",
+        "query": "Alt Hotel St John's, St John's, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7044023,
+          47.566323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alt Hotel Winnipeg","icon": "📍",
+        "city": "Winnipeg, MB",
+        "query": "Alt Hotel Winnipeg, Winnipeg, MB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1439171,
+          49.8941292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Applause Hotel Calgary Airport","icon": "📍",
+        "city": "Calgary Airport",
+        "query": "Applause Hotel Calgary Airport, Calgary Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0349769,
+          51.1383865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artisan Inn","icon": "📍",
+        "city": "Trinity, NL",
+        "query": "Artisan Inn, Trinity, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.3607264,
+          48.3677539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aspen Village Inn","icon": "📍",
+        "city": "Waterton Park",
+        "query": "Aspen Village Inn, Waterton Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9091348,
+          49.052865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auberge Le Baluchon","icon": "📍",
+        "city": "Saint-Paulin",
+        "query": "Auberge Le Baluchon, Saint-Paulin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0017011,
+          46.4510538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auberge Le Saint Pierre","icon": "📍",
+        "city": "Quebec City",
+        "query": "Auberge Le Saint Pierre, Quebec City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2074596,
+          46.8130816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auberge des Battures","icon": "📍",
+        "city": "La Baie",
+        "query": "Auberge des Battures, La Baie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7950793,
+          48.3368064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auberge du Lac St Pierre","icon": "📍",
+        "city": "Trois Rivieres",
+        "query": "Auberge du Lac St Pierre, Trois Rivieres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6678554,
+          46.2781346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aurora Inn","icon": "📍",
+        "city": "Dawson City, YT",
+        "query": "Aurora Inn, Dawson City, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.4334237,
+          64.0582503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff Aspen Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Banff Aspen Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5688056,
+          51.1813889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff Caribou Lodge & Spa","icon": "📍",
+        "city": "Banff",
+        "query": "Banff Caribou Lodge & Spa, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5605293,
+          51.1842178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff Ptarmigan Inn","icon": "📍",
+        "city": "Banff",
+        "query": "Banff Ptarmigan Inn, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5699113,
+          51.1801693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Banff Rocky Mountain Resort","icon": "📍",
+        "city": "Banff",
+        "query": "Banff Rocky Mountain Resort, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5359363,
+          51.1998716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bartlett Lodge","icon": "📍",
+        "city": "Algonquin Park",
+        "query": "Bartlett Lodge, Algonquin Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.5969764,
+          45.5480443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Basecamp Suites Banff","icon": "📍",
+        "city": "Banff",
+        "query": "Basecamp Suites Banff, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5720844,
+          51.1792246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayshore Inn","icon": "📍",
+        "city": "Waterton Park",
+        "query": "Bayshore Inn, Waterton Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9061533,
+          49.0526605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Gold Rush Inn","icon": "📍",
+        "city": "Whitehorse, YT",
+        "query": "Best Western Gold Rush Inn, Whitehorse, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.05772,
+          60.71845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Water Acres","icon": "📍",
+        "city": "Huntsville / Muskoka",
+        "query": "Blue Water Acres, Huntsville / Muskoka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0621454,
+          45.3171506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bluenose Lodge","icon": "📍",
+        "city": "Lunenburg, NS",
+        "query": "Bluenose Lodge, Lunenburg, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.317434,
+          44.378361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boreale Lodge","icon": "📍",
+        "city": "Whitehorse, YT",
+        "query": "Boreale Lodge, Whitehorse, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.2148504,
+          60.8640538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brewster's Mountain Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Brewster's Mountain Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.572102,
+          51.176715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo Mountain Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Buffalo Mountain Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.550517,
+          51.1839652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canalta Jurassic Hotel","icon": "📍",
+        "city": "Drumheller",
+        "query": "Canalta Jurassic Hotel, Drumheller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.70153,
+          51.451386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canalta Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Canalta Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5581083,
+          51.1852073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlisle House","icon": "📍",
+        "city": "Annapolis Royal, NS",
+        "query": "Carlisle House, Annapolis Royal, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5094956,
+          44.7409119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charltons Banff","icon": "📍",
+        "city": "Banff",
+        "query": "Charltons Banff, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5616359,
+          51.1840676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chateau Jasper","icon": "📍",
+        "city": "Jasper",
+        "query": "Chateau Jasper, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0811566,
+          52.8859883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chateau Nova","icon": "📍",
+        "city": "Yellowknife, NT",
+        "query": "Chateau Nova, Yellowknife, NT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3646316,
+          62.4566698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chelsea Hotel","icon": "📍",
+        "city": "Toronto",
+        "query": "Chelsea Hotel, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3830973,
+          43.6584976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarenville Inn","icon": "📍",
+        "city": "Clarenville, NL",
+        "query": "Clarenville Inn, Clarenville, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.9607877,
+          48.145756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Canmore Hotel & Conference Centre","icon": "📍",
+        "city": "Canmore",
+        "query": "Coast Canmore Hotel & Conference Centre, Canmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.345207,
+          51.087305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast Edmonton Plaza Hotel","icon": "📍",
+        "city": "Edmonton",
+        "query": "Coast Edmonton Plaza Hotel, Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.500686,
+          53.5422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crowne Plaza Fallsview","icon": "📍",
+        "city": "Niagara Falls",
+        "query": "Crowne Plaza Fallsview, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0715837,
+          43.0918191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crowne Plaza Saint John Harbour View","icon": "📍",
+        "city": "Saint John, NB",
+        "query": "Crowne Plaza Saint John Harbour View, Saint John, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0731154,
+          45.2749924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalton Trail Lodge","icon": "📍",
+        "city": "Haines Junction, YT",
+        "query": "Dalton Trail Lodge, Haines Junction, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -137.0645451,
+          60.4965613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deerhurst Resort","icon": "📍",
+        "city": "Huntsville / Muskoka",
+        "query": "Deerhurst Resort, Huntsville / Muskoka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1320755,
+          45.3472738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desbarres Manor Inn","icon": "📍",
+        "city": "Guysborough, NS",
+        "query": "Desbarres Manor Inn, Guysborough, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.5011695,
+          45.390892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Digby Pines Golf Resort & Spa","icon": "📍",
+        "city": "Digby, NS",
+        "query": "Digby Pines Golf Resort & Spa, Digby, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.7594981,
+          44.6351637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Discovery Yukon Lodgings","icon": "📍",
+        "city": "Beaver Creek, YT",
+        "query": "Discovery Yukon Lodgings, Beaver Creek, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -140.875303,
+          62.383753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elk & Avenue Hotel","icon": "📍",
+        "city": "Banff",
+        "query": "Elk & Avenue Hotel, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5702754,
+          51.1798087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elmhirst's Resort","icon": "📍",
+        "city": "Keene",
+        "query": "Elmhirst's Resort, Keene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1087271,
+          44.2496951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elmhirst's Resort","icon": "📍",
+        "city": "Keene",
+        "query": "Elmhirst's Resort, Keene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1087271,
+          44.2496951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ermitage du Lac","icon": "📍",
+        "city": "Mont Tremblant",
+        "query": "Ermitage du Lac, Mont Tremblant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58708,
+          46.210462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Banff Springs","icon": "📍",
+        "city": "Banff",
+        "query": "Fairmont Banff Springs, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.56183,
+          51.164332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Chateau Lake Louise","icon": "📍",
+        "city": "Lake Louise",
+        "query": "Fairmont Chateau Lake Louise, Lake Louise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.216882,
+          51.417719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Chateau Laurier","icon": "📍",
+        "city": "Ottawa",
+        "query": "Fairmont Chateau Laurier, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6952978,
+          45.4256659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Hotel Macdonald","icon": "📍",
+        "city": "Edmonton",
+        "query": "Fairmont Hotel Macdonald, Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4895554,
+          53.5402471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Jasper Park Lodge","icon": "📍",
+        "city": "Jasper",
+        "query": "Fairmont Jasper Park Lodge, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0571162,
+          52.8861603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Le Chateau Frontenac","icon": "📍",
+        "city": "Auberge Saint-Antoine",
+        "query": "Fairmont Le Chateau Frontenac, Auberge Saint-Antoine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2052184,
+          46.8120085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Le Chateau Montebello","icon": "📍",
+        "city": "Montebello",
+        "query": "Fairmont Le Chateau Montebello, Montebello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9494431,
+          45.6452715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Le Manoir Richelieu","icon": "📍",
+        "city": "La Malbaie",
+        "query": "Fairmont Le Manoir Richelieu, La Malbaie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.1455833,
+          47.6205104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Palliser","icon": "📍",
+        "city": "Calgary",
+        "query": "Fairmont Palliser, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0649605,
+          51.0443336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Queen Elizabeth","icon": "📍",
+        "city": "Auberge du Vieux-Port",
+        "query": "Fairmont Queen Elizabeth, Auberge du Vieux-Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5527947,
+          45.5063931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Royal York","icon": "📍",
+        "city": "Toronto",
+        "query": "Fairmont Royal York, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.381388,
+          43.6460303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Tremblant","icon": "📍",
+        "city": "Mont Tremblant",
+        "query": "Fairmont Tremblant, Mont Tremblant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5848665,
+          46.2146856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fairmont Winnipeg","icon": "📍",
+        "city": "Winnipeg, MB",
+        "query": "Fairmont Winnipeg, Winnipeg, MB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1369872,
+          49.8958415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fantasyland Hotel","icon": "📍",
+        "city": "West Edmonton Mall",
+        "query": "Fantasyland Hotel, West Edmonton Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6276417,
+          53.5222107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fogo Island Inn","icon": "📍",
+        "city": "Fogo Island, NL",
+        "query": "Fogo Island Inn, Fogo Island, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.1782406,
+          49.7304449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Park Hotel","icon": "📍",
+        "city": "Jasper",
+        "query": "Forest Park Hotel, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0770694,
+          52.8895444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox Harb'r Resort","icon": "📍",
+        "city": "Wallace, NS",
+        "query": "Fox Harb'r Resort, Wallace, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4538864,
+          45.8681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox Hotel & Suites","icon": "📍",
+        "city": "Banff",
+        "query": "Fox Hotel & Suites, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5631872,
+          51.1834549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredericton Inn","icon": "📍",
+        "city": "Fredericton, NB",
+        "query": "Fredericton Inn, Fredericton, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.661439,
+          45.9357811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gite Du Mont Albert","icon": "📍",
+        "city": "Auberge Lac-A-l'Eau-Claire",
+        "query": "Gite Du Mont Albert, Auberge Lac-A-l'Eau-Claire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.119639,
+          48.937561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gold Eagle Lodge","icon": "📍",
+        "city": "North Battleford, SK",
+        "query": "Gold Eagle Lodge, North Battleford, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2674813,
+          52.7573308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Rockies Resort","icon": "📍",
+        "city": "Canmore",
+        "query": "Grande Rockies Resort, Canmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3484178,
+          51.0905534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grenfell Heritage Hotel & Suites","icon": "📍",
+        "city": "St Anthony, NL",
+        "query": "Grenfell Heritage Hotel & Suites, St Anthony, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5873573,
+          51.3639792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gros Morne Inn","icon": "📍",
+        "city": "Shoal Brook, NL",
+        "query": "Gros Morne Inn, Shoal Brook, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.930355,
+          49.4796676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbour Lights Inn","icon": "📍",
+        "city": "Twillingate, NL",
+        "query": "Harbour Lights Inn, Twillingate, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.7737497,
+          49.6547382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harbourview Inn","icon": "📍",
+        "city": "Smiths Cove, NS",
+        "query": "Harbourview Inn, Smiths Cove, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.708288,
+          44.6119467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidden Ridge Resort","icon": "📍",
+        "city": "Banff",
+        "query": "Hidden Ridge Resort, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.546201,
+          51.1880709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hillsdale House Inn","icon": "📍",
+        "city": "Annapolis Royal, NS",
+        "query": "Hillsdale House Inn, Annapolis Royal, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5110317,
+          44.7405463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilton Garden Inn Saskatoon Downtown","icon": "📍",
+        "city": "Saskatoon, SK",
+        "query": "Hilton Garden Inn Saskatoon Downtown, Saskatoon, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6656429,
+          52.1297407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilton Hotel & Suites Niagara Falls Fallsview","icon": "📍",
+        "city": "Niagara Falls",
+        "query": "Hilton Hotel & Suites Niagara Falls Fallsview, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0835957,
+          43.0824822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Express & Suites","icon": "📍",
+        "city": "Mont Tremblant",
+        "query": "Holiday Inn Express & Suites, Mont Tremblant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5861334,
+          46.2109865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Express Deer Lake","icon": "📍",
+        "city": "Deer Lake, NL",
+        "query": "Holiday Inn Express Deer Lake, Deer Lake, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.4360018,
+          49.180568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Kingston Waterfront","icon": "📍",
+        "city": "Kingston",
+        "query": "Holiday Inn Kingston Waterfront, Kingston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.478169,
+          44.2307097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holiday Inn Toronto Downtown","icon": "📍",
+        "city": "Toronto",
+        "query": "Holiday Inn Toronto Downtown, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3810472,
+          43.6617792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Arts","icon": "📍",
+        "city": "Calgary",
+        "query": "Hotel Arts, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0650429,
+          51.0412806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Canoe & Suites","icon": "📍",
+        "city": "Banff",
+        "query": "Hotel Canoe & Suites, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5547245,
+          51.1857319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Chateau Albert","icon": "📍",
+        "city": "Bertrand, NB",
+        "query": "Hotel Chateau Albert, Bertrand, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.1039106,
+          47.7865912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Chicoutimi","icon": "📍",
+        "city": "Chicoutimi",
+        "query": "Hotel Chicoutimi, Chicoutimi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0537292,
+          48.4283029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Clarendon","icon": "📍",
+        "city": "Auberge Saint-Antoine",
+        "query": "Hotel Clarendon, Auberge Saint-Antoine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2021927,
+          46.8144095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Clique Calgary Airport","icon": "📍",
+        "city": "Best Western Premier-Calgary Plaza Hotel & Conference Centre",
+        "query": "Hotel Clique Calgary Airport, Best Western Premier-Calgary Plaza Hotel & Conference Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9852828,
+          51.0649681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Halifax","icon": "📍",
+        "city": "Halifax, NS",
+        "query": "Hotel Halifax, Halifax, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5769408,
+          44.6508326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Levesque","icon": "📍",
+        "city": "RiviÃ¨re du Loup",
+        "query": "Hotel Levesque, RiviÃ¨re du Loup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5534872,
+          47.8285324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Manoir Victoria","icon": "📍",
+        "city": "Auberge Saint-Antoine",
+        "query": "Hotel Manoir Victoria, Auberge Saint-Antoine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2021927,
+          46.8144095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Shediac","icon": "📍",
+        "city": "Shediac, NB",
+        "query": "Hotel Shediac, Shediac, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5410961,
+          46.2207356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Tadoussac","icon": "📍",
+        "city": "Tadoussac",
+        "query": "Hotel Tadoussac, Tadoussac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.7159649,
+          48.142331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel William Gray","icon": "📍",
+        "city": "Auberge du Vieux-Port",
+        "query": "Hotel William Gray, Auberge du Vieux-Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5527947,
+          45.5063931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel du Jardin","icon": "📍",
+        "city": "Saint-FÃ©licien",
+        "query": "Hotel du Jardin, Saint-FÃ©licien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4563233,
+          48.6570794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel on Pownal","icon": "📍",
+        "city": "Charlottetown, PE",
+        "query": "Hotel on Pownal, Charlottetown, PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1301396,
+          46.2341594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HÃ´tel Sacacomie","icon": "📍",
+        "city": "Auberge Lac-A-l'Eau-Claire",
+        "query": "HÃ´tel Sacacomie, Auberge Lac-A-l'Eau-Claire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2217309,
+          46.5322217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inn at the Forks","icon": "📍",
+        "city": "Winnipeg, MB",
+        "query": "Inn at the Forks, Winnipeg, MB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1295706,
+          49.8878859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Innisfree Hopewell Rocks B&B","icon": "📍",
+        "city": "Hopewell Rocks / Lower Cape, NB",
+        "query": "Innisfree Hopewell Rocks B&B, Hopewell Rocks / Lower Cape, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.5907746,
+          45.824356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inverary Resort","icon": "📍",
+        "city": "Baddeck, NS",
+        "query": "Inverary Resort, Baddeck, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7563076,
+          46.0963322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irwin's Mountain Inn","icon": "📍",
+        "city": "Banff",
+        "query": "Irwin's Mountain Inn, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5664782,
+          51.1822179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JAG Boutique Hotel","icon": "📍",
+        "city": "St John's, NL",
+        "query": "JAG Boutique Hotel, St John's, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7125455,
+          47.5578105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jasper Inn & Suites by Sunrise","icon": "📍",
+        "city": "Jasper",
+        "query": "Jasper Inn & Suites by Sunrise, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0807639,
+          52.8846038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keltic Lodge Resort & Spa","icon": "📍",
+        "city": "Ingonish, NS",
+        "query": "Keltic Lodge Resort & Spa, Ingonish, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.403964,
+          46.64083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killarney Mountain Lodge","icon": "📍",
+        "city": "Killarney",
+        "query": "Killarney Mountain Lodge, Killarney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5073796,
+          45.9698144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Killarney Mountain Lodge","icon": "📍",
+        "city": "Killarney",
+        "query": "Killarney Mountain Lodge, Killarney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5073796,
+          45.9698144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Reata Ranch","icon": "📍",
+        "city": "Kyle, SK",
+        "query": "La Reata Ranch, Kyle, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2062051,
+          50.6669578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Louise Inn","icon": "📍",
+        "city": "Banff",
+        "query": "Lake Louise Inn, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5707903,
+          51.1784304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Germain Charlevoix Hotel & Spa","icon": "📍",
+        "city": "Baie-St-Paul",
+        "query": "Le Germain Charlevoix Hotel & Spa, Baie-St-Paul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5055303,
+          47.4359594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Germain Hotel Calgary","icon": "📍",
+        "city": "Calgary",
+        "query": "Le Germain Hotel Calgary, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0633852,
+          51.0448961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Germain Hotel Maple Leaf Square","icon": "📍",
+        "city": "Toronto",
+        "query": "Le Germain Hotel Maple Leaf Square, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3808844,
+          43.6427925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Germain Hotel Montreal","icon": "📍",
+        "city": "Auberge du Vieux-Port",
+        "query": "Le Germain Hotel Montreal, Auberge du Vieux-Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5527947,
+          45.5063931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Germain Hotel Ottawa","icon": "📍",
+        "city": "Ottawa",
+        "query": "Le Germain Hotel Ottawa, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6881914,
+          45.4259015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Germain Hotel Quebec","icon": "📍",
+        "city": "Auberge Saint-Antoine",
+        "query": "Le Germain Hotel Quebec, Auberge Saint-Antoine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.2021927,
+          46.8144095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Germain Hotel Toronto Mercer","icon": "📍",
+        "city": "Toronto",
+        "query": "Le Germain Hotel Toronto Mercer, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3911135,
+          43.6458047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Mount Stephen Hotel","icon": "📍",
+        "city": "Auberge du Vieux-Port",
+        "query": "Le Mount Stephen Hotel, Auberge du Vieux-Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5527947,
+          45.5063931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Place D'Armes Hotel & Suites","icon": "📍",
+        "city": "Auberge du Vieux-Port",
+        "query": "Le Place D'Armes Hotel & Suites, Auberge du Vieux-Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5574371,
+          45.5055007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leaside Manor","icon": "📍",
+        "city": "St John's, NL",
+        "query": "Leaside Manor, St John's, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7236448,
+          47.5455604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liscombe Lodge","icon": "📍",
+        "city": "Liscombe Mills, NS",
+        "query": "Liscombe Lodge, Liscombe Mills, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.1012429,
+          45.0126901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lobstick Lodge","icon": "📍",
+        "city": "Jasper",
+        "query": "Lobstick Lodge, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.080126,
+          52.886496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lord Elgin Hotel","icon": "📍",
+        "city": "Ottawa",
+        "query": "Lord Elgin Hotel, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6936556,
+          45.4214073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lord Nelson Hotel","icon": "📍",
+        "city": "Halifax, NS",
+        "query": "Lord Nelson Hotel, Halifax, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5795952,
+          44.642688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loyalist Country Inn","icon": "📍",
+        "city": "Summerside, PE",
+        "query": "Loyalist Country Inn, Summerside, PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7887514,
+          46.390271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MTN House","icon": "📍",
+        "city": "Canmore",
+        "query": "MTN House, Canmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3447315,
+          51.0932114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison Fiset House","icon": "📍",
+        "city": "Cheticamp, NS",
+        "query": "Maison Fiset House, Cheticamp, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.018641,
+          46.6219354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manitoulin Hotel & Conference Centre","icon": "📍",
+        "city": "Little Current / Manitoulin Island",
+        "query": "Manitoulin Hotel & Conference Centre, Little Current / Manitoulin Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9189605,
+          45.9789924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manoir Hovey","icon": "📍",
+        "city": "North Hatley",
+        "query": "Manoir Hovey, North Hatley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9953308,
+          45.2640342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marble Inn & Suites","icon": "📍",
+        "city": "Steady Brook, NL",
+        "query": "Marble Inn & Suites, Steady Brook, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8352351,
+          48.9515208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marmot Lodge","icon": "📍",
+        "city": "Jasper",
+        "query": "Marmot Lodge, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0774022,
+          52.8881618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marriott Fallsview Hotel & Spa","icon": "📍",
+        "city": "Niagara Falls",
+        "query": "Marriott Fallsview Hotel & Spa, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.082039,
+          43.07859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marriott on the Falls","icon": "📍",
+        "city": "Niagara Falls",
+        "query": "Marriott on the Falls, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.082692,
+          43.077405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metis Crossing","icon": "📍",
+        "city": "Smokey Lake",
+        "query": "Metis Crossing, Smokey Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.4694012,
+          53.9934922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Midnight Sun Hotel","icon": "📍",
+        "city": "Dawson City, YT",
+        "query": "Midnight Sun Hotel, Dawson City, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.4325221,
+          64.0621029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millcroft Inn & Spa","icon": "📍",
+        "city": "Alton",
+        "query": "Millcroft Inn & Spa, Alton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0766718,
+          43.8563001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monastery Hotel","icon": "📍",
+        "city": "St John's, NL",
+        "query": "Monastery Hotel, St John's, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7181141,
+          47.5532671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moose Hotel & Suites","icon": "📍",
+        "city": "Banff",
+        "query": "Moose Hotel & Suites, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5693817,
+          51.1806907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moraine Lake Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Moraine Lake Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5707903,
+          51.1784304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Royal Hotel","icon": "📍",
+        "city": "Banff",
+        "query": "Mount Royal Hotel, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5705556,
+          51.1763889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountaineer Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Mountaineer Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.177328,
+          51.4243632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baker's Creek Campground","icon": "📍",
+        "city": "Banff",
+        "query": "Baker's Creek Campground, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5707903,
+          51.1784304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Murray Premises Hotel","icon": "📍",
+        "city": "St John's, NL",
+        "query": "Murray Premises Hotel, St John's, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.709541,
+          47.5614819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neddies Harbour Inn","icon": "📍",
+        "city": "Norris Point, NL",
+        "query": "Neddies Harbour Inn, Norris Point, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8607025,
+          49.5248413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nova Inn","icon": "📍",
+        "city": "Inuvik, NT",
+        "query": "Nova Inn, Inuvik, NT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.7006988,
+          68.3546905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novotel Toronto Centre","icon": "📍",
+        "city": "Toronto",
+        "query": "Novotel Toronto Centre, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3742742,
+          43.646567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oakes Hotel Overlooking the Falls","icon": "📍",
+        "city": "Niagara Falls",
+        "query": "Oakes Hotel Overlooking the Falls, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.081859,
+          43.0802034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean View Hotel","icon": "📍",
+        "city": "Rocky Harbour, NL",
+        "query": "Ocean View Hotel, Rocky Harbour, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.9161625,
+          49.5904004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otter Hotel","icon": "📍",
+        "city": "Banff",
+        "query": "Otter Hotel, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5561839,
+          51.1849583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pangea House Bed & Breakfast","icon": "📍",
+        "city": "Gananoque",
+        "query": "Pangea House Bed & Breakfast, Gananoque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1675211,
+          44.3280663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pantages Hotel Toronto Centre","icon": "📍",
+        "city": "Toronto",
+        "query": "Pantages Hotel Toronto Centre, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3790873,
+          43.6546283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phare du Pot a l'Eau de Vie Lighthouse","icon": "📍",
+        "city": "RiviÃ¨re du Loup",
+        "query": "Phare du Pot a l'Eau de Vie Lighthouse, RiviÃ¨re du Loup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.6815673,
+          47.8726414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pillar & Post Hotel","icon": "📍",
+        "city": "Niagara-on-the-Lake",
+        "query": "Pillar & Post Hotel, Niagara-on-the-Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.078011,
+          43.248583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pocaterra Inn & Waterslide","icon": "📍",
+        "city": "Canmore",
+        "query": "Pocaterra Inn & Waterslide, Canmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3608879,
+          51.1016951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pomeroy Kananaskis Mountain Lodge","icon": "📍",
+        "city": "Kananaskis",
+        "query": "Pomeroy Kananaskis Mountain Lodge, Kananaskis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.146296,
+          50.9187183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Post Hotel & Spa","icon": "📍",
+        "city": "Baker Creek by Basecamp - New",
+        "query": "Post Hotel & Spa, Baker Creek by Basecamp - New"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1812834,
+          51.4264491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prince of Wales Hotel & Spa","icon": "📍",
+        "city": "Niagara-on-the-Lake",
+        "query": "Prince of Wales Hotel & Spa, Niagara-on-the-Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.070819,
+          43.254559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyramid Lake Resort","icon": "📍",
+        "city": "Pine Bungalows - New",
+        "query": "Pyramid Lake Resort, Pine Bungalows - New"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0674209,
+          52.8899574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Anne Inn","icon": "📍",
+        "city": "Annapolis Royal, NS",
+        "query": "Queen Anne Inn, Annapolis Royal, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5115677,
+          44.7415934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen's Landing","icon": "📍",
+        "city": "Niagara-on-the-Lake",
+        "query": "Queen's Landing, Niagara-on-the-Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0648486,
+          43.2538823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quirpon Lighthouse Inn","icon": "📍",
+        "city": "Quirpon Island, NL",
+        "query": "Quirpon Lighthouse Inn, Quirpon Island, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.4270797,
+          51.6397879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Carpet Inn","icon": "📍",
+        "city": "Banff",
+        "query": "Red Carpet Inn, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5670222,
+          51.1821016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rimrock Resort Hotel","icon": "📍",
+        "city": "Banff",
+        "query": "Rimrock Resort Hotel, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5599407,
+          51.1515995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverside Inn","icon": "📍",
+        "city": "New Glasgow, NS",
+        "query": "Riverside Inn, New Glasgow, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.644898,
+          45.5903026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodd Brudenell River Resort","icon": "📍",
+        "city": "Cardigan, PE",
+        "query": "Rodd Brudenell River Resort, Cardigan, PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.588424,
+          46.201248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodd Charlottetown","icon": "📍",
+        "city": "Charlottetown, PE",
+        "query": "Rodd Charlottetown, Charlottetown, PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1306135,
+          46.2347516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodd Crowbush Golf & Beach Resort","icon": "📍",
+        "city": "Morell, PE",
+        "query": "Rodd Crowbush Golf & Beach Resort, Morell, PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7927886,
+          46.4294378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodd Grand Yarmouth","icon": "📍",
+        "city": "Yarmouth, NS",
+        "query": "Rodd Grand Yarmouth, Yarmouth, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1189804,
+          43.8392028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodd Miramichi River","icon": "📍",
+        "city": "Miramichi, NB",
+        "query": "Rodd Miramichi River, Miramichi, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.4695434,
+          47.0316848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodd Moncton","icon": "📍",
+        "city": "Moncton, NB",
+        "query": "Rodd Moncton, Moncton, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7703014,
+          46.0906201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rodd Royalty","icon": "📍",
+        "city": "Charlottetown, PE",
+        "query": "Rodd Royalty, Charlottetown, PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1497167,
+          46.2659528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Royal Canadian Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Royal Canadian Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.563815,
+          51.1832373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rundlestone Lodge","icon": "📍",
+        "city": "Banff",
+        "query": "Rundlestone Lodge, Banff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5585874,
+          51.1848778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel & Suites Calgary Airport","icon": "📍",
+        "city": "Calgary",
+        "query": "Sandman Hotel & Suites Calgary Airport, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2089817,
+          51.0852732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Best Western Premier-Calgary Plaza Hotel & Conference Centre","icon": "📍",
+        "city": "Calgary",
+        "query": "Best Western Premier-Calgary Plaza Hotel & Conference Centre, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9852828,
+          51.0649681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel & Suites Regina","icon": "📍",
+        "city": "Regina, SK",
+        "query": "Sandman Hotel & Suites Regina, Regina, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5587951,
+          50.4480824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Calgary West","icon": "📍",
+        "city": "Calgary West",
+        "query": "Sandman Hotel Calgary West, Calgary West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.2089817,
+          51.0852732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Lethbridge","icon": "📍",
+        "city": "Lethbridge",
+        "query": "Sandman Hotel Lethbridge, Lethbridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8099067,
+          49.6945951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Red Deer","icon": "📍",
+        "city": "Red Deer",
+        "query": "Sandman Hotel Red Deer, Red Deer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8157978,
+          52.2470505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Saskatoon","icon": "📍",
+        "city": "Saskatoon, SK",
+        "query": "Sandman Hotel Saskatoon, Saskatoon, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6741767,
+          52.1583653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel West Edmonton","icon": "📍",
+        "city": "West Edmonton Mall",
+        "query": "Sandman Hotel West Edmonton, West Edmonton Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.6264927,
+          53.540172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Hotel Winnipeg Airport","icon": "📍",
+        "city": "Winnipeg Airport, MB",
+        "query": "Sandman Hotel Winnipeg Airport, Winnipeg Airport, MB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2044518,
+          49.8973703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Inn Grande Prairie","icon": "📍",
+        "city": "Grande Prairie",
+        "query": "Sandman Inn Grande Prairie, Grande Prairie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7884808,
+          55.170691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Montreal Longueuil","icon": "📍",
+        "city": "Hotel Saint-Sulpice",
+        "query": "Sandman Montreal Longueuil, Hotel Saint-Sulpice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5231722,
+          45.5249779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Calgary Downtown Hotel","icon": "📍",
+        "city": "Calgary",
+        "query": "Sandman Signature Calgary Downtown Hotel, Calgary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0809594,
+          51.0472776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Edmonton Downtown Hotel","icon": "📍",
+        "city": "Edmonton",
+        "query": "Sandman Signature Edmonton Downtown Hotel, Edmonton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.4931031,
+          53.5449339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Ottawa Airport","icon": "📍",
+        "city": "Ottawa Airport",
+        "query": "Sandman Signature Ottawa Airport, Ottawa Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6658889,
+          45.3178429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Saskatoon South Hotel","icon": "📍",
+        "city": "Saskatoon, SK",
+        "query": "Sandman Signature Saskatoon South Hotel, Saskatoon, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6693312,
+          52.0944252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature St. John's","icon": "📍",
+        "city": "St John's, NL",
+        "query": "Sandman Signature St. John's, St John's, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7734504,
+          47.551503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Toronto Airport","icon": "📍",
+        "city": "Toronto Airport",
+        "query": "Sandman Signature Toronto Airport, Toronto Airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5907936,
+          43.6898325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandman Signature Winnipeg Airport","icon": "📍",
+        "city": "Winnipeg Airport, MB",
+        "query": "Sandman Signature Winnipeg Airport, Winnipeg Airport, MB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2363915,
+          49.909744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaw Club Hotel & Spa","icon": "📍",
+        "city": "Niagara-on-the-Lake",
+        "query": "Shaw Club Hotel & Spa, Niagara-on-the-Lake"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0682678,
+          43.253128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheraton Fallsview","icon": "📍",
+        "city": "Niagara Falls",
+        "query": "Sheraton Fallsview, Niagara Falls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0727412,
+          43.0910507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheraton Hotel Newfoundland","icon": "📍",
+        "city": "St John's, NL",
+        "query": "Sheraton Hotel Newfoundland, St John's, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.700327,
+          47.5712347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silver Dart Lodge","icon": "📍",
+        "city": "Baddeck, NS",
+        "query": "Silver Dart Lodge, Baddeck, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.7618591,
+          46.095354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinbad's Hotel & Suites","icon": "📍",
+        "city": "Gander, NL",
+        "query": "Sinbad's Hotel & Suites, Gander, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.605463,
+          48.952844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Smuggler's Cove Inn","icon": "📍",
+        "city": "Lunenburg, NS",
+        "query": "Smuggler's Cove Inn, Lunenburg, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3087139,
+          44.3764139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solara Resort & Spa","icon": "📍",
+        "city": "Canmore",
+        "query": "Solara Resort & Spa, Canmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3418576,
+          51.0833188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Lakes Resort","icon": "📍",
+        "city": "Tagish, YT",
+        "query": "Southern Lakes Resort, Tagish, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.3760833,
+          60.1644477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sportsman's Inn Resort & Marina","icon": "📍",
+        "city": "Killarney",
+        "query": "Sportsman's Inn Resort & Marina, Killarney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.504537,
+          52.0599609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Christopher's Hotel","icon": "📍",
+        "city": "Port Aux Basques, NL",
+        "query": "St. Christopher's Hotel, Port Aux Basques, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.1425068,
+          47.5763125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sugar Hill Inn","icon": "📍",
+        "city": "Norris Point, NL",
+        "query": "Sugar Hill Inn, Norris Point, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.8795172,
+          49.5365854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tattingstone Inn","icon": "📍",
+        "city": "Wolfville, NS",
+        "query": "Tattingstone Inn, Wolfville, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.373971,
+          45.0901969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tekarra Lodge","icon": "📍",
+        "city": "Pine Bungalows - New",
+        "query": "Tekarra Lodge, Pine Bungalows - New"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0566999,
+          52.6683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple Gardens Mineral Spa","icon": "📍",
+        "city": "Moose Jaw, SK",
+        "query": "Temple Gardens Mineral Spa, Moose Jaw, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5333391,
+          50.3927362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thanksgiving Ranch","icon": "📍",
+        "city": "Pincher Creek",
+        "query": "Thanksgiving Ranch, Pincher Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9708364,
+          49.3238029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Algonquin Resort","icon": "📍",
+        "city": "St Andrews, NB",
+        "query": "The Algonquin Resort, St Andrews, NB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.0553048,
+          45.0804673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Anndore House","icon": "📍",
+        "city": "Toronto",
+        "query": "The Anndore House, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3853826,
+          43.6685171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Barrington Hotel","icon": "📍",
+        "city": "Halifax, NS",
+        "query": "The Barrington Hotel, Halifax, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5749827,
+          44.64975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Crimson Jasper","icon": "📍",
+        "city": "Jasper",
+        "query": "The Crimson Jasper, Jasper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0788211,
+          52.8815105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Downtown","icon": "📍",
+        "city": "Dawson City, YT",
+        "query": "The Downtown, Dawson City, YT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.4334356,
+          64.0623363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Glynmill Inn","icon": "📍",
+        "city": "Corner Brook, NL",
+        "query": "The Glynmill Inn, Corner Brook, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.94007,
+          48.949203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Great George","icon": "📍",
+        "city": "Charlottetown, PE",
+        "query": "The Great George, Charlottetown, PE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1243876,
+          46.2340095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Halliburton","icon": "📍",
+        "city": "Halifax, NS",
+        "query": "The Halliburton, Halifax, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5708689,
+          44.6417836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Malcolm Hotel","icon": "📍",
+        "city": "Canmore",
+        "query": "The Malcolm Hotel, Canmore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3527281,
+          51.0867931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Metcalfe Hotel","icon": "📍",
+        "city": "Ottawa",
+        "query": "The Metcalfe Hotel, Ottawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6951139,
+          45.4205056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Resort at Cypress Hills","icon": "📍",
+        "city": "Maple Creek, SK",
+        "query": "The Resort at Cypress Hills, Maple Creek, SK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5036163,
+          49.6618385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Ritz Carlton Montreal","icon": "📍",
+        "city": "Auberge du Vieux-Port",
+        "query": "The Ritz Carlton Montreal, Auberge du Vieux-Port"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5778058,
+          45.5001857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Simon Hotel","icon": "📍",
+        "city": "Sydney, NS",
+        "query": "The Simon Hotel, Sydney, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.195868,
+          46.1360584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sutton Place Hotel Halifax","icon": "📍",
+        "city": "Halifax, NS",
+        "query": "The Sutton Place Hotel Halifax, Halifax, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5755882,
+          44.6466522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Hollis Halifax, a DoubleTree Suites by Hilton","icon": "📍",
+        "city": "Halifax, NS",
+        "query": "The Hollis Halifax, a DoubleTree Suites by Hilton, Halifax, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5719049,
+          44.6468723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sutton Place Hotel Toronto","icon": "📍",
+        "city": "Toronto",
+        "query": "The Sutton Place Hotel Toronto, Toronto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3919151,
+          43.6460267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Tides Inn","icon": "📍",
+        "city": "Norris Point, NL",
+        "query": "The Tides Inn, Norris Point, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.881113,
+          49.5210956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tobermory Princess Hotel","icon": "📍",
+        "city": "Tobermory",
+        "query": "Tobermory Princess Hotel, Tobermory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6620571,
+          45.2553106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuckamore Lodge","icon": "📍",
+        "city": "Main Brook, NL",
+        "query": "Tuckamore Lodge, Main Brook, NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.0013038,
+          51.1610397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterton Lakes Lodge Resort","icon": "📍",
+        "city": "Waterton Park",
+        "query": "Waterton Lakes Lodge Resort, Waterton Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9098474,
+          49.0517707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whistler's Inn","icon": "📍",
+        "city": "Pine Bungalows - New",
+        "query": "Whistler's Inn, Pine Bungalows - New"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0803335,
+          52.8764435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Point Beach Resort","icon": "📍",
+        "city": "White Point Beach, NS",
+        "query": "White Point Beach Resort, White Point Beach, NS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.742666,
+          43.9650882
+        ]
+      }
+    }
+  ]
+}

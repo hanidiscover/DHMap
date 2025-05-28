@@ -1,47 +1,486 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hotel Map</title>
+  <title>Accomapper – SVG Export with Calibri and Synced Pins</title>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Leaflet CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-image@0.4.0/leaflet-image.js"></script>
   <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      overflow: hidden;
+      font-family: Calibri, sans-serif;
+    }
     #map {
-      height: 600px;
+      position: absolute;
+      top: 0;
+      bottom: 0;
       width: 100%;
+      z-index: 0;
+    }
+    .leaflet-control-scale {
+      z-index: 1001 !important;
+    }
+    .custom-pin {
+      font-size: 18px;
+      position: absolute;
+      z-index: 998;
+      pointer-events: none;
+    }
+    .poi-pin {
+      font-size: 14px;
+      opacity: 0.5;
+    }
+    .tooltip-box {
+      position: absolute;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-weight: bold;
+      white-space: nowrap;
+      user-select: none;
+      z-index: 999;
+      cursor: move;
+    }
+    svg#line-overlay {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      z-index: 997;
+    }
+    #export-button {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+    }
+    #style-controls {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      z-index: 1002;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 8px 12px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px #0002;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    #search-bar {
+      position: absolute;
+      top: 10px;
+      left: 50vw;
+      z-index: 1002;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 6px 10px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px #0002;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    #scale-bar {
+      position: absolute;
+      bottom: 30px;
+      left: 40px;
+      z-index: 1002;
+      background: rgba(255, 255, 255, 0.95);
+      padding: 4px 12px;
+      border-radius: 6px;
+      box-shadow: 0 1px 4px #0002;
+      cursor: move;
+      user-select: none;
+      display: inline-block;
+      font-family: Calibri;
+      font-size: 13px;
+      font-weight: bold;
     }
   </style>
 </head>
 <body>
+  <div id="map"></div>
+  <svg id="line-overlay"></svg>
+  <button id="export-button">Export Full Map as SVG</button>
+  <div id="style-controls">
+    <div><b>Hotel Pin:</b> <span id="hotel-pin-styles"></span></div>
+    <div><b>POI Pin:</b> <span id="poi-pin-styles"></span></div>
+    <div><b>Map Style:</b> <span id="map-style-samples"></span></div>
+  </div>
+  <div id="search-bar">
+    <input id="search-input" type="text" placeholder="Search hotel, city, or POI..." />
+    <button id="search-btn">Search</button>
+  </div>
+  <div id="scale-bar">
+    <span id="scale-bar-text"></span>
+    <svg id="scale-bar-svg" width="80" height="10"></svg>
+  </div>
 
-<h2>Hotel Locations</h2>
-<div id="map"></div>
+  <script>
+    const map = L.map('map', { attributionControl: false }).setView([49.2827, -123.1207], 11);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
+  subdomains: ['a', 'b', 'c'],
+  attribution: '&copy; Carto',
+  maxZoom: 19
+}).addTo(map);
 
-<!-- Leaflet JS -->
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script>
-  // Initialize the map
-  const map = L.map('map').setView([43.65107, -79.347015], 10); // Center on Toronto for example
 
-  // Add OpenStreetMap tiles
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap contributors'
-  }).addTo(map);
+    const scaleControl = L.control.scale({ imperial: false });
+    scaleControl.addTo(map);
 
-  // List of hotels: name and coordinates
-  const hotels = [
-    { name: "Hotel One", lat: 43.6532, lng: -79.3832 },
-    { name: "Hotel Two", lat: 43.6612, lng: -79.3941 },
-    { name: "Hotel Three", lat: 43.6455, lng: -79.3806 }
-  ];
+    const mapContainer = document.getElementById('map');
+    const lineOverlay = document.getElementById('line-overlay');
 
-  // Add pins with labels
-  hotels.forEach(hotel => {
-    const marker = L.marker([hotel.lat, hotel.lng]).addTo(map);
-    marker.bindTooltip(hotel.name, { permanent: true, direction: 'right' });
-  });
-</script>
+    function createPinAndTooltip(feature) {
+      const coords = feature.geometry.coordinates;
+      const latlng = [coords[1], coords[0]];
+      const isPOI = feature.properties.type === 'poi';
+      const emoji = feature.properties.icon || (isPOI ? '📷' : '📍');
+      const name = feature.properties.name;
 
+      const pin = document.createElement('div');
+      pin.className = 'custom-pin' + (isPOI ? ' poi-pin' : '');
+      pin.textContent = emoji;
+      document.body.appendChild(pin);
+
+      const tooltip = document.createElement('div');
+      tooltip.className = 'tooltip-box';
+      tooltip.textContent = name;
+      if (isPOI) tooltip.style.opacity = '0.5';
+      document.body.appendChild(tooltip);
+
+      const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+      line.setAttribute('stroke', '#444');
+      line.setAttribute('stroke-width', '1');
+      lineOverlay.appendChild(line);
+
+      let tooltipLeft = 0;
+      let tooltipTop = 0;
+      let hasBeenDragged = false;
+
+      function update() {
+        const point = map.latLngToContainerPoint(latlng);
+        pin.style.left = `${point.x}px`;
+        pin.style.top = `${point.y}px`;
+
+        if (!hasBeenDragged) {
+          tooltipLeft = point.x + 10;
+          tooltipTop = point.y + 10;
+        }
+
+        tooltip.style.left = `${tooltipLeft}px`;
+        tooltip.style.top = `${tooltipTop}px`;
+
+        const boxWidth = tooltip.offsetWidth;
+        const boxHeight = tooltip.offsetHeight;
+        const boxCenterX = tooltipLeft + boxWidth / 2;
+        const boxCenterY = tooltipTop + boxHeight / 2;
+        const pinAnchorX = point.x + 0.5 * pin.offsetWidth;
+        const pinAnchorY = point.y + 0.75 * pin.offsetHeight;
+
+        let tooltipAnchorX = boxCenterX;
+        const deltaX = boxCenterX - pinAnchorX;
+        const threshold = boxWidth * 0.25;
+        if (deltaX < -threshold) tooltipAnchorX = tooltipLeft + boxWidth;
+        else if (deltaX > threshold) tooltipAnchorX = tooltipLeft;
+
+        line.setAttribute('x1', pinAnchorX);
+        line.setAttribute('y1', pinAnchorY);
+        line.setAttribute('x2', tooltipAnchorX);
+        line.setAttribute('y2', boxCenterY);
+      }
+
+      map.on('move', update);
+      map.on('zoom', update);
+      window.addEventListener('resize', update);
+      requestAnimationFrame(update);
+
+      let isDragging = false, offsetX = 0, offsetY = 0;
+      tooltip.addEventListener('mousedown', function (e) {
+        isDragging = true;
+        offsetX = e.offsetX;
+        offsetY = e.offsetY;
+        e.preventDefault();
+      });
+
+      document.addEventListener('mousemove', function (e) {
+        if (!isDragging) return;
+        const rect = mapContainer.getBoundingClientRect();
+        tooltipLeft = e.clientX - rect.left - offsetX;
+        tooltipTop = e.clientY - rect.top - offsetY;
+        hasBeenDragged = true;
+        requestAnimationFrame(update);
+      });
+
+      document.addEventListener('mouseup', () => {
+        isDragging = false;
+      });
+    }
+
+    function loadGeoJSON(url) {
+      fetch(url)
+        .then(res => res.json())
+        .then(data => {
+          if (!data.features || !Array.isArray(data.features)) throw new Error("Invalid GeoJSON.");
+          data.features.forEach(feature => createPinAndTooltip(feature));
+        })
+        .catch(err => console.error("GeoJSON load error:", err.message));
+    }
+
+    loadGeoJSON('hotels.geojson');
+    loadGeoJSON('poi.geojson');
+
+    document.getElementById('export-button').addEventListener('click', () => {
+      leafletImage(map, function (err, canvas) {
+        if (err) return alert("Error rendering map: " + err);
+        const svgNS = "http://www.w3.org/2000/svg";
+        const svg = document.createElementNS(svgNS, "svg");
+        svg.setAttribute("xmlns", svgNS);
+        svg.setAttribute("width", window.innerWidth);
+        svg.setAttribute("height", window.innerHeight);
+        svg.setAttribute("viewBox", `0 0 ${window.innerWidth} ${window.innerHeight}`);
+        svg.setAttribute("font-family", "Calibri");
+        const base64 = canvas.toDataURL("image/png");
+        const image = document.createElementNS(svgNS, "image");
+        image.setAttribute("href", base64);
+        image.setAttribute("width", window.innerWidth);
+        image.setAttribute("height", window.innerHeight);
+        image.setAttribute("preserveAspectRatio", "xMidYMid meet");
+        svg.appendChild(image);
+        document.querySelectorAll('#line-overlay line').forEach(line => {
+          const x1 = line.getAttribute('x1');
+          const y1 = line.getAttribute('y1');
+          const x2 = line.getAttribute('x2');
+          const y2 = line.getAttribute('y2');
+          if ([x1, y1, x2, y2].some(v => v === null)) return;
+          const l = document.createElementNS(svgNS, "line");
+          l.setAttribute("x1", x1);
+          l.setAttribute("y1", y1);
+          l.setAttribute("x2", x2);
+          l.setAttribute("y2", y2);
+          l.setAttribute("stroke", line.getAttribute("stroke").replace("#d3dadc", "blue").replace("#edf3ef", "green"));
+          l.setAttribute("stroke-width", "1");
+          svg.appendChild(l);
+        });
+        document.querySelectorAll('.custom-pin').forEach(pin => {
+          const x = parseFloat(pin.style.left);
+          const y = parseFloat(pin.style.top);
+          const width = pin.offsetWidth;
+          const height = pin.offsetHeight;
+          const t = document.createElementNS(svgNS, "text");
+          t.setAttribute("x", x + 0.5 * width);
+          t.setAttribute("y", y + 0.75 * height);
+          t.setAttribute("font-size", pin.style.fontSize || '16px' );
+          t.setAttribute("font-weight", "bold");
+          t.setAttribute("text-anchor", "middle");
+          t.textContent = pin.textContent;
+          svg.appendChild(t);
+        });
+        document.querySelectorAll('.tooltip-box').forEach(tip => {
+          const x = parseFloat(tip.style.left);
+          const y = parseFloat(tip.style.top);
+          const width = tip.offsetWidth;
+          const height = tip.offsetHeight;
+          const t = document.createElementNS(svgNS, "text");
+          t.setAttribute("x", x + width / 2);
+          t.setAttribute("y", y + 0.5 * height);
+          t.setAttribute("font-size", "13px");
+          t.setAttribute("font-weight", "bold");
+          t.setAttribute("text-anchor", "middle");
+          t.setAttribute("dominant-baseline", "middle");
+          t.setAttribute("opacity", tip.style.opacity || '1');
+          t.textContent = tip.textContent;
+          svg.appendChild(t);
+        });
+        // Export draggable scale bar
+        const scaleBar = document.getElementById('scale-bar');
+        if (scaleBar) {
+          const rect = scaleBar.getBoundingClientRect();
+          const mapRect = mapContainer.getBoundingClientRect();
+          const x = rect.left - mapRect.left;
+          const y = rect.top - mapRect.top;
+          const width = scaleBar.offsetWidth;
+          const height = scaleBar.offsetHeight;
+          // Draw scale bar background
+          const g = document.createElementNS(svgNS, 'g');
+          const bg = document.createElementNS(svgNS, 'rect');
+          bg.setAttribute('x', x);
+          bg.setAttribute('y', y);
+          bg.setAttribute('width', width);
+          bg.setAttribute('height', height);
+          bg.setAttribute('rx', 6);
+          bg.setAttribute('fill', '#fff');
+          bg.setAttribute('stroke', '#bbb');
+          g.appendChild(bg);
+          // Draw scale bar text
+          const text = document.createElementNS(svgNS, 'text');
+          text.setAttribute('x', x + 12);
+          text.setAttribute('y', y + 18);
+          text.setAttribute('font-size', '13px');
+          text.setAttribute('font-weight', 'bold');
+          text.setAttribute('font-family', 'Calibri');
+          text.textContent = document.getElementById('scale-bar-text').textContent;
+          g.appendChild(text);
+          // Draw scale bar svg (the rectangles)
+          const svgBar = document.getElementById('scale-bar-svg');
+          if (svgBar) {
+            const barRects = svgBar.querySelectorAll('rect');
+            barRects.forEach(r => {
+              const rectSvg = document.createElementNS(svgNS, 'rect');
+              rectSvg.setAttribute('x', x + parseFloat(r.getAttribute('x')));
+              rectSvg.setAttribute('y', y + parseFloat(r.getAttribute('y')));
+              rectSvg.setAttribute('width', r.getAttribute('width'));
+              rectSvg.setAttribute('height', r.getAttribute('height'));
+              rectSvg.setAttribute('fill', r.getAttribute('fill'));
+              rectSvg.setAttribute('rx', r.getAttribute('rx'));
+              g.appendChild(rectSvg);
+            });
+          }
+          svg.appendChild(g);
+        }
+        // Hide UI controls from SVG
+        // (No action needed, as they are not included)
+        const serializer = new XMLSerializer();
+        const svgBlob = new Blob([serializer.serializeToString(svg)], { type: "image/svg+xml" });
+        const url = URL.createObjectURL(svgBlob);
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "accomapper-export.svg";
+        a.click();
+        URL.revokeObjectURL(url);
+      });
+    });
+    // --- Pin Style Controls ---
+    const hotelPinIcons = ['🛏', '📍', '🚩', '⚫'];
+    const poiPinIcons = ['', '❤', '⬛', '⭐', '📷'];
+    let currentHotelPin = hotelPinIcons[0];
+    let currentPoiPin = poiPinIcons[4];
+    function renderPinStyleButtons() {
+      const hotelSpan = document.getElementById('hotel-pin-styles');
+      hotelSpan.innerHTML = '';
+      hotelPinIcons.forEach(icon => {
+        const btn = document.createElement('button');
+        btn.textContent = icon;
+        btn.style.fontSize = '18px';
+        btn.style.marginRight = '4px';
+        btn.style.opacity = icon === currentHotelPin ? '1' : '0.5';
+        btn.onclick = () => { currentHotelPin = icon; hotelSpan.querySelectorAll('button').forEach(b=>b.style.opacity='0.5'); btn.style.opacity='1'; updateAllPins(); };
+        hotelSpan.appendChild(btn);
+      });
+      const poiSpan = document.getElementById('poi-pin-styles');
+      poiSpan.innerHTML = '';
+      poiPinIcons.forEach(icon => {
+        const btn = document.createElement('button');
+        btn.textContent = icon || 'none';
+        btn.style.fontSize = '18px';
+        btn.style.marginRight = '4px';
+        btn.style.opacity = icon === currentPoiPin ? '1' : '0.5';
+        btn.onclick = () => { currentPoiPin = icon; poiSpan.querySelectorAll('button').forEach(b=>b.style.opacity='0.5'); btn.style.opacity='1'; updateAllPins(); };
+        poiSpan.appendChild(btn);
+      });
+    }
+    function updateAllPins() {
+      document.querySelectorAll('.custom-pin').forEach(pin => {
+        if (pin.classList.contains('poi-pin')) {
+          pin.textContent = currentPoiPin || '📷';
+        } else {
+          pin.textContent = currentHotelPin;
+        }
+      });
+    }
+    renderPinStyleButtons();
+    // --- Map Style Controls ---
+    const mapStyles = [
+      {name:'Grey', url: 'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png'},
+      {name:'Soft Grey', url: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png'},
+      {name:'Default', url: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png'}
+    ];
+    let currentLayer = null;
+    function renderMapStyleButtons() {
+      const mapSpan = document.getElementById('map-style-samples');
+      mapSpan.innerHTML = '';
+      mapStyles.forEach(style => {
+        const btn = document.createElement('button');
+        btn.textContent = style.name;
+        btn.style.fontSize = '14px';
+        btn.style.marginRight = '4px';
+        btn.onclick = () => {
+          if (currentLayer) map.removeLayer(currentLayer);
+          currentLayer = L.tileLayer(style.url, {subdomains:['a','b','c'],maxZoom:19,attribution:'&copy; Carto'}).addTo(map);
+        };
+        mapSpan.appendChild(btn);
+      });
+    }
+    renderMapStyleButtons();
+    // --- Draggable Scale Bar ---
+    const scaleBar = document.getElementById('scale-bar');
+    let scaleBarDragging = false, scaleBarOffsetX = 0, scaleBarOffsetY = 0;
+    scaleBar.addEventListener('mousedown', function(e) {
+      scaleBarDragging = true;
+      scaleBarOffsetX = e.offsetX;
+      scaleBarOffsetY = e.offsetY;
+      e.preventDefault();
+    });
+    document.addEventListener('mousemove', function(e) {
+      if (!scaleBarDragging) return;
+      scaleBar.style.left = (e.clientX - scaleBarOffsetX) + 'px';
+      scaleBar.style.top = (e.clientY - scaleBarOffsetY) + 'px';
+    });
+    document.addEventListener('mouseup', function() { scaleBarDragging = false; });
+    // --- Update Scale Bar ---
+    function updateScaleBar() {
+      const meters = map.distance(map.containerPointToLatLng([0,0]), map.containerPointToLatLng([80,0]));
+      let display, barLen;
+      if (meters > 1000) { display = (meters/1000).toFixed(1) + ' km'; barLen = 80; }
+      else { display = Math.round(meters) + ' m'; barLen = 80; }
+      document.getElementById('scale-bar-text').textContent = display;
+      const svg = document.getElementById('scale-bar-svg');
+      svg.innerHTML = `<rect x="0" y="4" width="${barLen}" height="3" fill="#222" rx="1.5"/><rect x="0" y="4" width="${barLen/2}" height="3" fill="#fff" rx="1.5"/>`;
+    }
+    map.on('zoom move', updateScaleBar);
+    window.addEventListener('resize', updateScaleBar);
+    updateScaleBar();
+    // --- Search Bar ---
+    document.getElementById('search-btn').onclick = function() {
+      const val = document.getElementById('search-input').value.trim().toLowerCase();
+      if (!val) return;
+      let found = null;
+      document.querySelectorAll('.tooltip-box').forEach(tip => {
+        if (tip.textContent.toLowerCase().includes(val)) found = tip;
+      });
+      if (found) {
+        const left = parseFloat(found.style.left);
+        const top = parseFloat(found.style.top);
+        const mapRect = mapContainer.getBoundingClientRect();
+        // Find the closest pin to this tooltip
+        let closestPin = null, minDist = 1e9;
+        document.querySelectorAll('.custom-pin').forEach(pin => {
+          const pinLeft = parseFloat(pin.style.left);
+          const pinTop = parseFloat(pin.style.top);
+          const d = Math.hypot(pinLeft - left, pinTop - top);
+          if (d < minDist) { minDist = d; closestPin = pin; }
+        });
+        if (closestPin) {
+          // Find the corresponding feature's latlng
+          // (Assume pin is at correct projected position)
+          // We'll use the map's containerPointToLatLng
+          const pinX = parseFloat(closestPin.style.left);
+          const pinY = parseFloat(closestPin.style.top);
+          const latlng = map.containerPointToLatLng([pinX, pinY]);
+          map.setView(latlng, 16, {animate:true});
+        }
+      }
+    };
+    // POI tooltip opacity
+    document.querySelectorAll('.tooltip-box').forEach(tip => {
+      if (tip.previousSibling && tip.previousSibling.classList && tip.previousSibling.classList.contains('poi-pin')) {
+        tip.style.opacity = '0.5';
+      }
+    });
+  </script>
 </body>
 </html>
